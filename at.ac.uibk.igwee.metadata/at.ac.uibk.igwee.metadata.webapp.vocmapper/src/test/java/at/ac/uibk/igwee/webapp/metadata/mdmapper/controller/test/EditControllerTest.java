@@ -154,7 +154,7 @@ public class EditControllerTest {
 		
 	}
 	
-	@Test
+//	@Test
 	public void test07_fixACustomResult() throws Exception {
 		VocabularyQueryResultData result = null;
 		int pos = 0;
@@ -172,7 +172,7 @@ public class EditControllerTest {
 		
 	}
 	
-	@Test
+//	@Test
 	public void test08_writeFinalResult() throws Exception {
 		write(vms.getQueryQueueFactory().fromQueryQueueToXML(sessionHolder.getQueryQueue()),
 				"./src/test/resources/edit/queryQueueAfter.xml");
