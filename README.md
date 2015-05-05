@@ -51,21 +51,21 @@ By doing so, the query for DNB a new parameter "accessToken" with the token you 
 ## Extending the framework
 Basically, if you want to extend the searching framework, you will need to add new modules/packages:
 
-*. Implement the Authority interface
+1. Implement the Authority interface
 The Authority interface lies in at.ac.uibk.igwee.metadata.vocabulary folder.
 
     at.ac.uibk.igwee.metadata.vocabulary.Authority
 
 Using a singleton might help.
 
-*. Implement the Vocabulary interface.
+2. Implement the Vocabulary interface.
 The Vocabulary interface lies in at.ac.uibk.igwee.metadata.vocabulary folder.
 
     at.ac.uibk.igwee.metadata.vocabulary.Vocabulary
 
 You can also extends the AbstractVocabulary class.
 
-* Implement the QueryService interface.
+3 Implement the QueryService interface.
 The QueryService interface defines several methods which are needed for the MetaQueryService. The interface is defined
 in
 
