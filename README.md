@@ -56,14 +56,14 @@ The Authority interface lies in at.ac.uibk.igwee.metadata.vocabulary folder.
 
     at.ac.uibk.igwee.metadata.vocabulary.Authority
 
-Using a singleton might help.
+        Using a singleton might help.
 
 2. Implement the Vocabulary interface.
 The Vocabulary interface lies in at.ac.uibk.igwee.metadata.vocabulary folder.
 
     at.ac.uibk.igwee.metadata.vocabulary.Vocabulary
 
-You can also extends the AbstractVocabulary class.
+        You can also extends the AbstractVocabulary class.
 
 3 Implement the QueryService interface.
 The QueryService interface defines several methods which are needed for the MetaQueryService. The interface is defined
@@ -86,13 +86,20 @@ in order to use the newly added features. You will have to do the following in t
 at.ac.uibk.igwee.metadata.webapp.vocmapper folder:
 
 1. Add the dependencies to the pom.xml
+
 2. Add the necessary configuration in the
+
     at.ac.uibk.igwee.webapp.metadata.mdmapper.application.Application class.
+
 3. Change the following places, so the application can add new QueryServices:
+
     resources/static/resources/js/app.js (line 327)
+
         You will need to provide a name (which is also sent to the server), an url (for preview purpose) and an
         attribute named "selected".
+
     java/at/ac/uibk/igwee/webapp/metadata/mdmapper/controller/PreQueryController (line 180)
+
         You will need to provide a mapper for the implemented Authority.
 
 The source code is licensed with BSD two clause license.
