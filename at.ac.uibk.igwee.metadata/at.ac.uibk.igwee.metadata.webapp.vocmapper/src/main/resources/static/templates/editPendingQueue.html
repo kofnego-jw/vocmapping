@@ -1,0 +1,88 @@
+<div ng-controller="EditPendingQueueController as epqC">
+
+    <h4>Authorities used for prequerying</h4>
+    <ul>
+        <li ng-repeat="auth in setupAuthorities">{{auth.name}}</li>
+    </ul>
+
+    <button ng-click="epqC.setShowing('add')">Add</button>
+    <button ng-click="epqC.setShowing('list')">List</button>
+
+    <div ng-show="epqC.isShowing('add')" ng-controller="AddQueryController">
+
+        <form id="addPendingQueueForm" ng-submit="addQuery()">
+
+            <div class="form-group">
+                <label for="name">Name or Keyvalue: </label>
+                <input ng-model="addForm.name" id="name" class="form-control" type="text" placeholder="name"/>
+            </div>
+
+            <div class="form-group">
+                <label for="queryString">Query String: </label>
+                <input ng-model="addForm.queryString" id="queryString" class="form-control" type="text"
+                       placeholder="query string, left blank for name"/>
+            </div>
+
+            <div class="form-group">
+                <label for="addInfo">Additional Information: </label>
+                <input ng-model="addForm.info" class="form-control" id="addInfo" type="text"
+                       placeholder="Additional information, will not be used for query."/>
+            </div>
+
+            <div class="form-group">
+                <label for="type">Type of Vocabulary: </label>
+                <select ng-model="addForm.type" id="type" class="form-control">
+                    <option value="" select="select">Unknown</option>
+                    <option value="person">Person</option>
+                    <option value="place">Place</option>
+                    <option value="institution">Institution</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label>Authorities Used for Query (select none to query all)</label>
+                <fieldset class="form-control">
+                    <label ng-repeat="auth in auths">
+                        <input id="auth_{{$index}}" type="checkbox" value="{{auth.name}}" ng-model="auth.selected" />
+                        <a href="{{auth.url}}" target="_blank">{{auth.name}}</a>
+                    </label>
+                </fieldset>
+            </div>
+
+            <button type="submit">Add a query</button>
+
+        </form>
+    </div>
+
+
+    <div ng-show="epqC.isShowing('list')" ng-controller="EditPendingListController">
+
+        <h4>Pending Queries</h4>
+        <table>
+            <thead>
+            <tr>
+                <td>Name</td>
+                <td>Query</td>
+                <td>Info</td>
+                <td>Type</td>
+                <td>Authorities</td>
+                <td>&nbsp;</td>
+            </tr>
+            </thead>
+            <tbody>
+            <tr ng-repeat="pq in queryQueue.pendingQueries">
+                <td>{{pq.name}}</td>
+                <td>{{pq.queryString}}</td>
+                <td>{{pq.additionalInfo}}</td>
+                <td>{{pq.type}}</td>
+                <td>{{pq.authorities}}</td>
+                <td><button ng-click="removeQuery($index)">remove</button></td>
+            </tr>
+            </tbody>
+        </table>
+
+    </div>
+
+
+
+</div>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gndQueryResult>
+  <maxRows>30</maxRows>
+  <startRow>1</startRow>
+  <nextRow>31</nextRow>
+  <totalhits>142</totalhits>
+  <results>
+    <gndVocabulary>
+      <id>gnd:115776303</id>
+      <uri>http://d-nb.info/gnd/115776303</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>115776303</gndId>
+      <name>Müller, Franz Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:117588962</id>
+      <uri>http://d-nb.info/gnd/117588962</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>117588962</gndId>
+      <name>Müller, Heinz-Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:125969783</id>
+      <uri>http://d-nb.info/gnd/125969783</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>125969783</gndId>
+      <name>Müller, Gert Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:127124144</id>
+      <uri>http://d-nb.info/gnd/127124144</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>127124144</gndId>
+      <name>Müller, Ernst Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:118200534</id>
+      <uri>http://d-nb.info/gnd/118200534</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>118200534</gndId>
+      <name>Müller, Stefan O.</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:122647793</id>
+      <uri>http://d-nb.info/gnd/122647793</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>122647793</gndId>
+      <name>Müller, Wolfgang F. O.</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:1035070952</id>
+      <uri>http://d-nb.info/gnd/1035070952</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>1035070952</gndId>
+      <name>Müller, Heinz Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:122477111</id>
+      <uri>http://d-nb.info/gnd/122477111</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>122477111</gndId>
+      <name>Müller, Michael Christian Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:115379150</id>
+      <uri>http://d-nb.info/gnd/115379150</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>115379150</gndId>
+      <name>Müller, Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:13049917X</id>
+      <uri>http://d-nb.info/gnd/13049917X</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>13049917X</gndId>
+      <name>Müller, Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:124277365</id>
+      <uri>http://d-nb.info/gnd/124277365</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>124277365</gndId>
+      <name>Müller, Erhard O.</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:113120362</id>
+      <uri>http://d-nb.info/gnd/113120362</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>113120362</gndId>
+      <name>Müller, Peter O.</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:12712425X</id>
+      <uri>http://d-nb.info/gnd/12712425X</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>12712425X</gndId>
+      <name>Müller-Steinmann, Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:128371137</id>
+      <uri>http://d-nb.info/gnd/128371137</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>128371137</gndId>
+      <name>Müller, Heinz Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:1058117793</id>
+      <uri>http://d-nb.info/gnd/1058117793</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>1058117793</gndId>
+      <name>Müller, Ulrich Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:1012764877</id>
+      <uri>http://d-nb.info/gnd/1012764877</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>1012764877</gndId>
+      <name>Müller-Girard, Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:117609315</id>
+      <uri>http://d-nb.info/gnd/117609315</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>117609315</gndId>
+      <name>Müller, Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:125970048</id>
+      <uri>http://d-nb.info/gnd/125970048</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>125970048</gndId>
+      <name>Müller, Richard Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:125768613</id>
+      <uri>http://d-nb.info/gnd/125768613</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>125768613</gndId>
+      <name>Müller, Reinhard Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:125969996</id>
+      <uri>http://d-nb.info/gnd/125969996</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>125969996</gndId>
+      <name>Müller, Paul Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:1062467590</id>
+      <uri>http://d-nb.info/gnd/1062467590</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>1062467590</gndId>
+      <name>Müller-Hanno, Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:12780420X</id>
+      <uri>http://d-nb.info/gnd/12780420X</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>12780420X</gndId>
+      <name>Müller, Friedrich Ludwig Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:123117747</id>
+      <uri>http://d-nb.info/gnd/123117747</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>123117747</gndId>
+      <name>Müller, Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:1055659617</id>
+      <uri>http://d-nb.info/gnd/1055659617</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>1055659617</gndId>
+      <name>Müller, Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:125970447</id>
+      <uri>http://d-nb.info/gnd/125970447</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>125970447</gndId>
+      <name>Müller-Gastell, Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:12576779X</id>
+      <uri>http://d-nb.info/gnd/12576779X</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>12576779X</gndId>
+      <name>Müller, Fritz Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:136909027</id>
+      <uri>http://d-nb.info/gnd/136909027</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>136909027</gndId>
+      <name>Müller, Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:122082079</id>
+      <uri>http://d-nb.info/gnd/122082079</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>122082079</gndId>
+      <name>Ross, Carlo</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:1055659625</id>
+      <uri>http://d-nb.info/gnd/1055659625</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>1055659625</gndId>
+      <name>Müller, Otto</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:123063876</id>
+      <uri>http://d-nb.info/gnd/123063876</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>123063876</gndId>
+      <name>Müller, Alfred</name>
+    </gndVocabulary>
+  </results>
+</gndQueryResult>

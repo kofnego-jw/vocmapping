@@ -1,0 +1,54 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<artifactId>at.ac.uibk.igwee.git.metadata</artifactId>
+		<groupId>at.ac.uibk.igwee.git.metadata</groupId>
+		<version>1.0-SNAPSHOT</version>
+	</parent>
+	<artifactId>xslt.impl</artifactId>
+
+	<packaging>bundle</packaging>
+
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.felix</groupId>
+				<artifactId>maven-bundle-plugin</artifactId>
+				<version>${maven-bundle-plugin.version}</version>
+				<extensions>true</extensions>
+				<configuration>
+					<instructions>
+						<Bundle-SymbolicName>${project.artifactId}</Bundle-SymbolicName>
+						<Bundle-Version>${project.version}</Bundle-Version>
+						<Bundle-Activator>at.ac.uibk.igwee.xslt.impl.SaxonXsltServiceActivator</Bundle-Activator>
+						<Import-Package>*</Import-Package>
+					</instructions>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+	<dependencies>
+		<dependency>
+			<groupId>${parent.groupId}</groupId>
+			<artifactId>xslt.api</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>commons-io</groupId>
+			<artifactId>commons-io</artifactId>
+			<version>2.4</version>
+			<type>bundle</type>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.servicemix.bundles</groupId>
+			<artifactId>org.apache.servicemix.bundles.saxon</artifactId>
+			<version>9.5.1-5_1</version>
+			<type>bundle</type>
+		</dependency>
+	</dependencies>
+	<name>Kofnego XSLT xslt.api SaxonImplementation</name>
+	<description>Implementation of Kofnego XSLT API using the Saxon Library. Note: Due to the recommandation in BND-Website the Saxon Library is integrated inline.</description>
+</project>

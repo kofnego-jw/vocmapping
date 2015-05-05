@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gndQueryResult>
+  <maxRows>30</maxRows>
+  <startRow>1</startRow>
+  <nextRow>31</nextRow>
+  <totalhits>36</totalhits>
+  <results>
+    <gndVocabulary>
+      <id>gnd:119128-7</id>
+      <uri>http://d-nb.info/gnd/119128-7</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>119128-7</gndId>
+      <name>Arcibiskupství &lt;Olomouc&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:118033-2</id>
+      <uri>http://d-nb.info/gnd/118033-2</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>118033-2</gndId>
+      <name>Erzdiözese &lt;Olmütz&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:7654194-0</id>
+      <uri>http://d-nb.info/gnd/7654194-0</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>7654194-0</gndId>
+      <name>Bělá pod Pradědem</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:7654178-2</id>
+      <uri>http://d-nb.info/gnd/7654178-2</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>7654178-2</gndId>
+      <name>Bělá pod Pradědem- Adolfovice</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:7717633-9</id>
+      <uri>http://d-nb.info/gnd/7717633-9</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>7717633-9</gndId>
+      <name>Burg Olmütz</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:4043498-9</id>
+      <uri>http://d-nb.info/gnd/4043498-9</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>4043498-9</gndId>
+      <name>Diözese Olmütz</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:7573488-6</id>
+      <uri>http://d-nb.info/gnd/7573488-6</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>7573488-6</gndId>
+      <name>Dolany &lt;Olmütz&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:4789505-6</id>
+      <uri>http://d-nb.info/gnd/4789505-6</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>4789505-6</gndId>
+      <name>Erzbischöfliches Palais &lt;Olmütz&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:216045-6</id>
+      <uri>http://d-nb.info/gnd/216045-6</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>216045-6</gndId>
+      <name>Generalvikariat Branitz für den Deutschen Anteil der Erzdiözese Olmütz</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:4297730-7</id>
+      <uri>http://d-nb.info/gnd/4297730-7</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>4297730-7</gndId>
+      <name>Hochstift Olmütz</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:1041565747</id>
+      <uri>http://d-nb.info/gnd/1041565747</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>1041565747</gndId>
+      <name>Katharinenkirche &lt;Olmütz&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:4036881-6</id>
+      <uri>http://d-nb.info/gnd/4036881-6</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>4036881-6</gndId>
+      <name>Kirchenprovinz Olmütz</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:1043082832</id>
+      <uri>http://d-nb.info/gnd/1043082832</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>1043082832</gndId>
+      <name>Klosteranlage des Klosters Hradisch &lt;Olmütz&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:4583366-7</id>
+      <uri>http://d-nb.info/gnd/4583366-7</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>4583366-7</gndId>
+      <name>Kocourovec</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:4842549-7</id>
+      <uri>http://d-nb.info/gnd/4842549-7</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>4842549-7</gndId>
+      <name>Kreis Olmütz</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:4842550-3</id>
+      <uri>http://d-nb.info/gnd/4842550-3</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>4842550-3</gndId>
+      <name>Kreis Olmütz &lt;Süd&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:4565501-7</id>
+      <uri>http://d-nb.info/gnd/4565501-7</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>4565501-7</gndId>
+      <name>Loučany &lt;Olmütz&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:4712168-3</id>
+      <uri>http://d-nb.info/gnd/4712168-3</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>4712168-3</gndId>
+      <name>Mauritiuskirche Olmütz</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:7741494-9</id>
+      <uri>http://d-nb.info/gnd/7741494-9</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>7741494-9</gndId>
+      <name>Michaelskirche Olmütz</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:7515426-2</id>
+      <uri>http://d-nb.info/gnd/7515426-2</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>7515426-2</gndId>
+      <name>Neředín</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:4075470-4</id>
+      <uri>http://d-nb.info/gnd/4075470-4</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>4075470-4</gndId>
+      <name>Nordmährisches Gebiet</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:104394317X</id>
+      <uri>http://d-nb.info/gnd/104394317X</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>104394317X</gndId>
+      <name>Nové Sady &lt;Olmütz&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:4075643-9</id>
+      <uri>http://d-nb.info/gnd/4075643-9</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>4075643-9</gndId>
+      <name>Olmütz</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:7795407-5</id>
+      <uri>http://d-nb.info/gnd/7795407-5</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>7795407-5</gndId>
+      <name>Olmütz / Kathedrale</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:7515296-4</id>
+      <uri>http://d-nb.info/gnd/7515296-4</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>7515296-4</gndId>
+      <name>Olmütz &lt;Kraj&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:1043943218</id>
+      <uri>http://d-nb.info/gnd/1043943218</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>1043943218</gndId>
+      <name>Olmütz- Nové Sady</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:4333355-2</id>
+      <uri>http://d-nb.info/gnd/4333355-2</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>4333355-2</gndId>
+      <name>Olmütz &lt;Region&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:7515424-9</id>
+      <uri>http://d-nb.info/gnd/7515424-9</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>7515424-9</gndId>
+      <name>Olmütz-Neředín</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:1043943196</id>
+      <uri>http://d-nb.info/gnd/1043943196</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>1043943196</gndId>
+      <name>Olmütz-Povel</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:7751284-4</id>
+      <uri>http://d-nb.info/gnd/7751284-4</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>7751284-4</gndId>
+      <name>Palais Petrasch &lt;Olmütz&gt;</name>
+    </gndVocabulary>
+  </results>
+</gndQueryResult>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wikidataQueryResult>
+  <totalhits>2</totalhits>
+  <startRow>1</startRow>
+  <maxRows>2</maxRows>
+  <nextRow>3</nextRow>
+  <queryString>dc</queryString>
+  <wikidataVocabulary>
+    <id>wikidata:Q1735</id>
+    <uri>http://www.wikidata.org/wiki/Q1735</uri>
+    <vocabularyType>PLACE_NAME</vocabularyType>
+    <sameAsSet/>
+    <wikidataId>Q1735</wikidataId>
+    <labels>
+      <entry>
+        <string>de</string>
+        <string>Innsbruck</string>
+      </entry>
+      <entry>
+        <string>en</string>
+        <string>Innsbruck</string>
+      </entry>
+    </labels>
+  </wikidataVocabulary>
+  <wikidataVocabulary>
+    <id>wikidata:Q42</id>
+    <uri>http://www.wikidata.org/wiki/Q42</uri>
+    <vocabularyType>PERSONAL_NAME</vocabularyType>
+    <sameAsSet/>
+    <wikidataId>Q42</wikidataId>
+    <labels>
+      <entry>
+        <string>de</string>
+        <string>Douglas Adams</string>
+      </entry>
+      <entry>
+        <string>en</string>
+        <string>Douglas Adams</string>
+      </entry>
+    </labels>
+  </wikidataVocabulary>
+</wikidataQueryResult>

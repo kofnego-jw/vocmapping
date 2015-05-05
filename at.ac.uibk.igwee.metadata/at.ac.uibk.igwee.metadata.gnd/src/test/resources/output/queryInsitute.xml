@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gndQueryResult>
+  <maxRows>30</maxRows>
+  <startRow>1</startRow>
+  <nextRow>31</nextRow>
+  <totalhits>148</totalhits>
+  <results>
+    <gndVocabulary>
+      <id>gnd:1012056-7</id>
+      <uri>http://d-nb.info/gnd/1012056-7</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>1012056-7</gndId>
+      <name>Universität Salzburg / Theologische Fakultät</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:2053468-1</id>
+      <uri>http://d-nb.info/gnd/2053468-1</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>2053468-1</gndId>
+      <name>Institut für Publizistik und Kommunikationswissenschaft &lt;Salzburg&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:1025317912</id>
+      <uri>http://d-nb.info/gnd/1025317912</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>1025317912</gndId>
+      <name>Beratungskommission für Geographic Information Science</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:1025317696</id>
+      <uri>http://d-nb.info/gnd/1025317696</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>1025317696</gndId>
+      <name>Universität Salzburg / Interfakultärer Fachbereich Geoinformatik - Z_GIS</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:1047605287</id>
+      <uri>http://d-nb.info/gnd/1047605287</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>1047605287</gndId>
+      <name>Literaturarchiv Salzburg</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:16160446-8</id>
+      <uri>http://d-nb.info/gnd/16160446-8</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>16160446-8</gndId>
+      <name>Universität Salzburg / Fachbereich Geschichte</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:1045648973</id>
+      <uri>http://d-nb.info/gnd/1045648973</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>1045648973</gndId>
+      <name>Universität Salzburg / Arbeitsgruppe für Archäometrie und Cultural Heritage Computing</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:16014170-9</id>
+      <uri>http://d-nb.info/gnd/16014170-9</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>16014170-9</gndId>
+      <name>Interdisziplinäres Forschungszentrum Metamorphischer Wandel in den Künsten &lt;Salzburg&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:16038169-1</id>
+      <uri>http://d-nb.info/gnd/16038169-1</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>16038169-1</gndId>
+      <name>Universität Salzburg / Forschungsabteilung für Koptologie und Ägyptenkunde</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:10025768-9</id>
+      <uri>http://d-nb.info/gnd/10025768-9</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>10025768-9</gndId>
+      <name>Landeskrankenhaus &lt;Salzburg&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:10055491-X</id>
+      <uri>http://d-nb.info/gnd/10055491-X</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>10055491-X</gndId>
+      <name>Institut für Kommunikationswissenschaft &lt;Salzburg&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:10002077-X</id>
+      <uri>http://d-nb.info/gnd/10002077-X</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>10002077-X</gndId>
+      <name>Salzburger Institut für Politikwissenschaft</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:16094596-3</id>
+      <uri>http://d-nb.info/gnd/16094596-3</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>16094596-3</gndId>
+      <name>Gesellschaft für Kultursoziologie an der Universität Salzburg</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:5192674-X</id>
+      <uri>http://d-nb.info/gnd/5192674-X</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>5192674-X</gndId>
+      <name>Forschungsinstitut für Ägyptenkunde und Koptologie &lt;Salzburg&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:5166024-6</id>
+      <uri>http://d-nb.info/gnd/5166024-6</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>5166024-6</gndId>
+      <name>Universität Salzburg / Katholisch-Theologische Fakultät</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:10013810-X</id>
+      <uri>http://d-nb.info/gnd/10013810-X</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>10013810-X</gndId>
+      <name>Verein der Freunde des Instituts für Kunstgeschichte an der Universität Salzburg</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:16029696-1</id>
+      <uri>http://d-nb.info/gnd/16029696-1</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>16029696-1</gndId>
+      <name>Institut für Botanik und Botanischer Garten &lt;Salzburg&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:5324463-1</id>
+      <uri>http://d-nb.info/gnd/5324463-1</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>5324463-1</gndId>
+      <name>Universität Salzburg / Geisteswissenschaftliche Fakultät</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:10014576-0</id>
+      <uri>http://d-nb.info/gnd/10014576-0</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>10014576-0</gndId>
+      <name>Universität Salzburg / Naturwissenschaftliche Fakultät</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:262167-8</id>
+      <uri>http://d-nb.info/gnd/262167-8</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>262167-8</gndId>
+      <name>Botanischer Garten &lt;Salzburg&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:36184-7</id>
+      <uri>http://d-nb.info/gnd/36184-7</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>36184-7</gndId>
+      <name>Universität Salzburg</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:16022260-6</id>
+      <uri>http://d-nb.info/gnd/16022260-6</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>16022260-6</gndId>
+      <name>Interuniversitäres Institut für Angewandte Ethik &lt;Salzburg&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:10043570-1</id>
+      <uri>http://d-nb.info/gnd/10043570-1</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>10043570-1</gndId>
+      <name>Koordinationsstelle für Grund- und Grenzfragen der Medizin &lt;Salzburg&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:1047057-8</id>
+      <uri>http://d-nb.info/gnd/1047057-8</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>1047057-8</gndId>
+      <name>Institut für Publizistik und Kommunikationstheorie &lt;Salzburg&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:16160457-2</id>
+      <uri>http://d-nb.info/gnd/16160457-2</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>16160457-2</gndId>
+      <name>Universität Salzburg / Fachbereich Politik und Geschichte</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:26475-1</id>
+      <uri>http://d-nb.info/gnd/26475-1</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>26475-1</gndId>
+      <name>Universität Salzburg / Philosophische Fakultät</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:6523888-6</id>
+      <uri>http://d-nb.info/gnd/6523888-6</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>6523888-6</gndId>
+      <name>Arbeitsgruppe Landschaft und Nachhaltige Entwicklung</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:10047625-9</id>
+      <uri>http://d-nb.info/gnd/10047625-9</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>10047625-9</gndId>
+      <name>Eigenverlag der Gesellschaft für Kultursoziologie der Universität &lt;Salzburg&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:1601004-8</id>
+      <uri>http://d-nb.info/gnd/1601004-8</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>1601004-8</gndId>
+      <name>Forschungsinstitut für Organisationspsychologie &lt;Salzburg&gt;</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:6017217-4</id>
+      <uri>http://d-nb.info/gnd/6017217-4</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>6017217-4</gndId>
+      <name>Forschungsinstitut für Softwaretechnologie &lt;Salzburg&gt;</name>
+    </gndVocabulary>
+  </results>
+</gndQueryResult>

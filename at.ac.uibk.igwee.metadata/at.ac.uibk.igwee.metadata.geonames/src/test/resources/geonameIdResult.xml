@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geoname>
+<toponymName>Innsbruck</toponymName>
+<name>Innsbruck</name>
+<lat>47.26266</lat>
+<lng>11.39454</lng>
+<geonameId>2775220</geonameId>
+<countryCode>AT</countryCode>
+<countryName>Austria</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>112467</population>
+<asciiName>Innsbruck</asciiName>
+<alternateNames>Gorad Insbruk,INN,Innsbruck,Innschbruck,Insbruc,Insbruk,Insbruka,Insbrukas,Insmprouk,Inzbruk,Pons Aeni,ansbrwk,anzbrk,aynsbrwk,insabruka,inseubeulukeu,insuburukku,xin s brukh,yin si bei lu ke,yin si bu lu ke,İnnsbruck,İnsbruk,Ίνσμπρουκ,Інсбрук,Горад Інсбрук,Инзбрук,Инсбрук,Ինսբրուք,אינסברוק,إنسبروك,انزبرک,اینسبروک,इन्सब्रुक,ইন্সব্রুক,อินส์บรุค,ინსბრუკი,インスブルック,因斯孛鲁克,因斯布鲁克,인스브루크</alternateNames>
+<elevation>570</elevation>
+<srtm3>587</srtm3>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="7">07</adminCode1>
+<adminName1>Tyrol</adminName1>
+<adminCode2>701</adminCode2>
+<adminName2>Innsbruck Stadt</adminName2>
+<adminCode3>70101</adminCode3>
+<adminName3>Innsbruck</adminName3>
+<alternateName lang="ko">인스브루크</alternateName>
+<alternateName lang="ja">インスブルック</alternateName>
+<alternateName lang="th">อินส์บรุค</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Innsbruck</alternateName>
+<alternateName lang="link">http://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%81%D0%B1%D1%80%D1%83%D0%BA</alternateName>
+<alternateName lang="iata">INN</alternateName>
+<alternateName lang="br">Innsbruck</alternateName>
+<alternateName lang="bs">Innsbruck</alternateName>
+<alternateName lang="cs">Innsbruck</alternateName>
+<alternateName lang="da">Innsbruck</alternateName>
+<alternateName lang="de">Innsbruck</alternateName>
+<alternateName lang="en">Innsbruck</alternateName>
+<alternateName lang="eo">Innsbruck</alternateName>
+<alternateName isPreferredName="true" isShortName="true" lang="es">Innsbruck</alternateName>
+<alternateName lang="et">Innsbruck</alternateName>
+<alternateName lang="eu">Innsbruck</alternateName>
+<alternateName lang="fi">Innsbruck</alternateName>
+<alternateName lang="fr">Innsbruck</alternateName>
+<alternateName lang="gl">Innsbruck</alternateName>
+<alternateName lang="hbs">Innsbruck</alternateName>
+<alternateName lang="hr">Innsbruck</alternateName>
+<alternateName lang="hu">Innsbruck</alternateName>
+<alternateName lang="id">Innsbruck</alternateName>
+<alternateName lang="it">Innsbruck</alternateName>
+<alternateName lang="lb">Innsbruck</alternateName>
+<alternateName lang="nl">Innsbruck</alternateName>
+<alternateName lang="nn">Innsbruck</alternateName>
+<alternateName lang="no">Innsbruck</alternateName>
+<alternateName lang="pl">Innsbruck</alternateName>
+<alternateName lang="pt">Innsbruck</alternateName>
+<alternateName lang="ro">Innsbruck</alternateName>
+<alternateName lang="sl">Innsbruck</alternateName>
+<alternateName lang="sv">Innsbruck</alternateName>
+<alternateName lang="tr">İnnsbruck</alternateName>
+<alternateName lang="bar">Innschbruck</alternateName>
+<alternateName lang="vec">Insbruc</alternateName>
+<alternateName lang="az">İnsbruk</alternateName>
+<alternateName lang="lv">Insbruka</alternateName>
+<alternateName lang="lt">Insbrukas</alternateName>
+<alternateName lang="la">Pons Aeni</alternateName>
+<alternateName lang="pnb">انزبرک</alternateName>
+<alternateName lang="ar">إنسبروك</alternateName>
+<alternateName lang="fa">اینسبروک</alternateName>
+<alternateName lang="he">אינסברוק</alternateName>
+<alternateName lang="el">Ίνσμπρουκ</alternateName>
+<alternateName lang="be">Горад Інсбрук</alternateName>
+<alternateName lang="sr">Инзбрук</alternateName>
+<alternateName lang="bg">Инсбрук</alternateName>
+<alternateName lang="cv">Инсбрук</alternateName>
+<alternateName lang="mhr">Инсбрук</alternateName>
+<alternateName lang="mk">Инсбрук</alternateName>
+<alternateName lang="os">Инсбрук</alternateName>
+<alternateName lang="ru">Инсбрук</alternateName>
+<alternateName lang="uk">Інсбрук</alternateName>
+<alternateName lang="hy">Ինսբրուք</alternateName>
+<alternateName lang="ka">ინსბრუკი</alternateName>
+<alternateName lang="mr">इन्सब्रुक</alternateName>
+<alternateName lang="bn">ইন্সব্রুক</alternateName>
+<alternateName lang="wuu">因斯孛鲁克</alternateName>
+<alternateName lang="zh">因斯布鲁克</alternateName>
+<alternateName lang="zh-CN">因斯布鲁克</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Vienna</timezone>
+<bbox>
+<west>11.33059</west>
+<north>47.30603</north>
+<east>11.45849</east>
+<south>47.21929</south>
+</bbox>
+</geoname>

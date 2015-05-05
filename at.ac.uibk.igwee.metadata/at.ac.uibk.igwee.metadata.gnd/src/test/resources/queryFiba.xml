@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/"><version>1.1</version><numberOfRecords>2</numberOfRecords><records><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/2072519-X">
+		<gndo:gndIdentifier>2072519-X</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588b)2072519-X</gndo:oldAuthorityNumber>
+		<gndo:variantNameForTheCorporateBody>Forschungsinstitut Brenner-Archiv &lt;Innsbruck></gndo:variantNameForTheCorporateBody>
+		<gndo:variantNameForTheCorporateBody>Universität Innsbruck / Brenner-Archiv</gndo:variantNameForTheCorporateBody>
+		<gndo:variantNameForTheCorporateBody>Universität Innsbruck / Forschungsinstitut Brenner-Archiv</gndo:variantNameForTheCorporateBody>
+		<gndo:variantNameForTheCorporateBody>Universität Innsbruck / Archiv</gndo:variantNameForTheCorporateBody>
+		<gndo:preferredNameForTheCorporateBody>Brenner-Archiv &lt;Innsbruck></gndo:preferredNameForTheCorporateBody>
+		<gndo:hierarchicalSuperiorOfTheCorporateBody rdf:resource="http://d-nb.info/gnd/36165-3"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-AT"/>
+		<gndo:dateOfEstablishment>1964</gndo:dateOfEstablishment>
+		<gndo:placeOfBusiness rdf:resource="http://d-nb.info/gnd/4027096-8"/>
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#CorporateBody"/>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>1</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/4008173-4">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#CorporateBody"/>
+		<gndo:gndIdentifier>4008173-4</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588c)4008173-4</gndo:oldAuthorityNumber>
+		<gndo:variantNameForTheCorporateBody>Forschungsinstitut Brenner-Archiv / Innsbruck</gndo:variantNameForTheCorporateBody>
+		<gndo:preferredNameForTheCorporateBody>Brenner-Archiv</gndo:preferredNameForTheCorporateBody>
+		<gndo:broaderTermInstantial rdf:resource="http://d-nb.info/gnd/4201789-0"/>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#12.1b"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-AT-7"/>
+		<gndo:definition xml:lang="de">Archiv u. Forschungszentrum</gndo:definition>
+		<gndo:placeOfBusiness rdf:resource="http://d-nb.info/gnd/4027096-8"/>
+		<gndo:spatialAreaOfActivity rdf:resource="http://d-nb.info/gnd/4043271-3"/>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>2</recordPosition></record></records><nextRecordPosition>3</nextRecordPosition><echoedSearchRetrieveRequest><version>1.1</version><query>KOE="Forschungsinstitut Brenner-Archiv" and BBG="Tb*"</query><xQuery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/><recordSchema>RDFxml</recordSchema></echoedSearchRetrieveRequest><extraResponseData><accountOf xmlns="">Forschungsinstitut Brenner-Archiv</accountOf></extraResponseData></searchRetrieveResponse>

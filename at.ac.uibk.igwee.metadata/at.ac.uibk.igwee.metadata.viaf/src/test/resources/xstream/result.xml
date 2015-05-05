@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viafQueryResult>
+  <totalhits>1</totalhits>
+  <startRow>1</startRow>
+  <maxRows>30</maxRows>
+  <nextRow>11</nextRow>
+  <viafVocabulary>
+    <id>viaf:308191762</id>
+    <uri>http://www.viaf.org/viaf/308191762</uri>
+    <vocabularyType>PERSONAL_NAME</vocabularyType>
+    <sameAsSet/>
+    <name>Austen, Jane</name>
+    <linkedSources/>
+  </viafVocabulary>
+  <viafVocabulary>
+    <id>viaf:305434803</id>
+    <uri>http://www.viaf.org/viaf/305434803</uri>
+    <vocabularyType>PERSONAL_NAME</vocabularyType>
+    <sameAsSet>
+      <viafVocabulary>
+        <id>viaf:456</id>
+        <uri>http://www.viaf.org/viaf/456</uri>
+        <vocabularyType>PERSONAL_NAME</vocabularyType>
+        <sameAsSet/>
+        <name>example</name>
+        <linkedSources/>
+      </viafVocabulary>
+      <viafVocabulary>
+        <id>viaf:123</id>
+        <uri>http://www.viaf.org/viaf/123</uri>
+        <vocabularyType>PERSONAL_NAME</vocabularyType>
+        <sameAsSet/>
+        <name>example</name>
+        <linkedSources/>
+      </viafVocabulary>
+    </sameAsSet>
+    <name>Austen, Jane</name>
+    <linkedSources>
+      <entry>
+        <string>GND</string>
+        <string>1234</string>
+      </entry>
+      <entry>
+        <string>INB</string>
+        <string>LVVN123123</string>
+      </entry>
+    </linkedSources>
+  </viafVocabulary>
+</viafQueryResult>

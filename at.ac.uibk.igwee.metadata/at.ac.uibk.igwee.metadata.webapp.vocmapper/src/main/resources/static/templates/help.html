@@ -1,0 +1,41 @@
+<div class="pane">
+
+    <h2>How to use this application</h2>
+
+    <h3>Main idea</h3>
+
+    <p>Creating an edition is hard enough, but if one wants to link up people, places and corporates with controlled vocabularies, the
+        task becomes tedious. This application should help people link up the internal vocabularies (identified by a key- or a name-value)
+        with controlled vocabularies from other authorities, e.g. <a href="http://www.geonames.org" target="_blank">Geonames</a>,
+        <a href="http://www.viaf.org" target="_blank">Virtual Internet Authority File</a>,
+        or <a href="http://www.wikidata.org" target="_blank">Wikidata</a>. (More authorities may be available soon.)</p>
+    <p>For this purpose, one needs a link table from the internal key value to the URI provided by these authorities. This table may also
+        be formulated using RDF with the predicate owl:sameAs.</p>
+    <p>Here are the working steps:</p>
+    <ul>
+        <li>Make a <a href="#p1_table">table</a> with your favorite spread sheet application</li>
+        <li><a ui-sref="upload">Upload</a> the table to the application.</li>
+        <li>Use the <a ui-sref="prequery">Prequery</a> tab to prequery the vocabularies. The application will work the table
+            line by line and queries the authorities for controlled vocabularies.</li>
+        <li>At anytime, one can use the <a>Download</a> button to download the progress, the
+            progress will be saved as an XML file. Right now, this is the only way of exporting the data.</li>
+        <li>Use the <a ui-sref="edit">Edit</a> tab to edit the results. Specifically one should <b>fix</b> a certain result
+            of the query. By doing so, a link is established between the internal key value with an external controlled vocabulary.
+            If is also possible to requery a query, to reformulate the query string, or to add a controlled vocabulary URI.</li>
+        <li>Export the data as XML and use the data for your own projects.</li>
+    </ul>
+
+    <h3><a id="p1_table"></a>Spread Sheet Table</h3>
+    <p>Please insert the query data into an Excel table, using this <a href="resources/download/excelcsv.csv" target="_blank">template</a>.</p>
+    <p>The <b>Name</b> columns contain the key value (or the name value) of your projects, e.g. "Einstein, Albert".</p>
+    <p>The <b>Query</b> columns contain the query string, e.g. "Albert Einstein". Please note that the query string will be sent to
+        the different services. So, it may be required to discard accents.</p>
+    <p>The <b>Authorities</b> columns contain the desired authorities that are queried with this application. Valid values are :
+        "viaf", "geonames" and "wikidata". If this field is left blank, then all services available will be used. If you want to
+        specify more than one service, use " " (space) to delimit the different authorities. </p>
+    <p>The <b>Type</b> columns specify the types of the vocabularies. Valid values are "Person", "Place" and "Corporate".
+        If you are not sure, you can leave the field blank.</p>
+    <p>The <b>Info</b> columns contain just additional information that might be used to specify the vocabularies. E.g. one can
+        fill in "Physicist" to announce that the person in query is a physicist; or one can add birth- and deathdates and other
+        valuable information. This column will not be used for query, but it will be displayed in the editing window.</p>
+</div>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<queryQueue>
+  <name>StandardQueue</name>
+  <additionalInfo>Created on Thu Apr 30 10:47:15 CEST 2015</additionalInfo>
+  <pendingQueries>
+    <vocabularyQuery>
+      <type>PERSONAL_NAME</type>
+      <queryString>Albert Einstein</queryString>
+      <startRow>1</startRow>
+      <maxRow>30</maxRow>
+      <name>Einstein, Albert</name>
+      <additionalInfo>Physicist</additionalInfo>
+    </vocabularyQuery>
+    <vocabularyQuery>
+      <type>PERSONAL_NAME</type>
+      <queryString>Otto Bauer</queryString>
+      <viaf>
+        <id>org.viaf</id>
+        <name>VIAF</name>
+        <uri>http://www.viaf.org/viaf/</uri>
+        <baseUri>http://www.viaf.org/viaf/</baseUri>
+      </viaf>
+      <startRow>1</startRow>
+      <maxRow>30</maxRow>
+      <name>Bauer, Otto</name>
+      <additionalInfo>Catholic</additionalInfo>
+    </vocabularyQuery>
+    <vocabularyQuery>
+      <type>PLACE_NAME</type>
+      <queryString>Mühlviertel</queryString>
+      <geonames>
+        <id>org.geonames</id>
+        <name>Geonames</name>
+        <uri>http://geonames.org/</uri>
+        <baseUri>http://geonames.org/</baseUri>
+        <vocabularyUri>http://geonames.org/</vocabularyUri>
+      </geonames>
+      <startRow>1</startRow>
+      <maxRow>30</maxRow>
+      <name>Mühlviertel</name>
+      <additionalInfo>Mühlviertel</additionalInfo>
+    </vocabularyQuery>
+  </pendingQueries>
+  <results/>
+  <lastEditingPosition>0</lastEditingPosition>
+</queryQueue>

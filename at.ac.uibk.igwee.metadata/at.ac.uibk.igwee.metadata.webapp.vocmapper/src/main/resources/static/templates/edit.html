@@ -1,0 +1,67 @@
+<div class="pane">
+
+    <div>
+        <h1>Editing the QueryQueue</h1>
+    </div>
+
+    <div id="queryQueueList">
+        <h3>QueryQueue List</h3>
+        <div ng-controller="QueryQueueListController" style="overflow: auto; height: 384px; width: 200px">
+
+            <p><button ng-click="reloadQueryQueue()">Reload</button></p>
+            <ul style="list-style: none; padding:20px; margin:0; text-indent: -20px;">
+                <li ng-repeat="result in queryQueue.results">
+                    <a href="#" ng-click="edit($index)">{{result.query.name}}</a>
+                    <span ng-show="result.fixedResult!=null"><input title="fixed" type="checkbox" checked disabled/> </span>
+                    <span ng-show="result.fixedResult==null"><input title="not fixed" type="checkbox" disabled /> </span>
+                    <button title="remove" ng-click="removeResult($index)">rem</button>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="queryQueueEdit">
+        <h3>Editing Area</h3>
+        <div ng-controller="QueryQueueEditController as qqeC">
+
+            <div ng-show="qqeC.result" style="overflow: auto; height: 384px; width: 200px;">
+
+                <p>Key: <b>{{qqeC.result.query.name}}</b></p>
+                <p>Query string: <b>{{qqeC.result.query.queryString}}</b></p>
+                <p ng-show="qqeC.result.fixedResult!=null">SameAs: <b>
+                    <a href="#" ng-click="viewUrl(qqeC.result.fixedResult.url)">{{qqeC.result.fixedResult.id}}</a></b></p>
+                <p>Info: <b>{{qqeC.result.query.additionalInfo}}</b></p>
+                <table ng-show="qqeC.result.results && qqeC.result.results.length!=0">
+                    <thead>
+                        <tr>
+                            <td>Authority</td>
+                            <td>URL</td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="r in qqeC.result.results">
+                            <td>{{r.authority}}</td>
+                            <td><a ng-click="viewUrl(r.url)" href="#" title="{{r.id}}">{{r.url}}</a></td>
+                        </tr>
+                    </tbody>
+                </table>
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+    <div id="externalVocView" ng-controller="QueryQueueVocController">
+        <h3>&nbsp;</h3>
+        <p>URL: {{currentUrl}} <span style="width: 200px">&nbsp;</span><br/>
+            <button ng-click="fixCurrentUrl()">Map to this!</button>
+            <button ng-click="fixCurrentUrlAndClear()">Map to this and clear others!</button>
+            <button ng-click="removeCurrentUrl()">Remove this from results</button></p>
+        <iframe id="viewFrame" ng-show="currentUrl!=''" ng-src="{{currentUrl}}"/>
+    </div>
+
+
+
+</div>

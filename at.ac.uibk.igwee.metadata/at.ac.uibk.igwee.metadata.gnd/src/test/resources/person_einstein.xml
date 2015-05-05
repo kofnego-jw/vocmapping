@@ -1,0 +1,305 @@
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/118529579">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson" />
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/Albert_Einstein" />
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Albert_Einstein" />
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/75121530" />
+		<gndo:gndIdentifier>118529579</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588)185770878</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)185770878</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)118529579</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)13745788X</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)135386861</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-101c)311076866</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)4013939-6</gndo:oldAuthorityNumber>
+		<gndo:variantNameForThePerson>Einstein, A.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>A.</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Einstein, ...</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>...</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ainshtain, Albert</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Albert</gndo:forename>
+			<gndo:surname>Ainshtain</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ainshutain, A.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>A.</gndo:forename>
+			<gndo:surname>Ainshutain</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ainshutain, ...</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>...</gndo:forename>
+			<gndo:surname>Ainshutain</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ainštain, ...</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>...</gndo:forename>
+			<gndo:surname>Ainštain</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ainsten, ...</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>...</gndo:forename>
+			<gndo:surname>Ainsten</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ayinsten, ...</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>...</gndo:forename>
+			<gndo:surname>Ayinsten</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ai͏̈nstai͏̈n, Albertos</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Albertos</gndo:forename>
+			<gndo:surname>Ai͏̈nstai͏̈n</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ai͏̈nstai͏̈n, Almpert</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Almpert</gndo:forename>
+			<gndo:surname>Ai͏̈nstai͏̈n</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ainstaina, Albarta</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Albarta</gndo:forename>
+			<gndo:surname>Ainstaina</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ainsyut&apos;ain, Alberŭt&apos;ŭ</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Alberŭt&apos;ŭ</gndo:forename>
+			<gndo:surname>Ainsyut&apos;ain</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Aiyinsitan</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:personalName>Aiyinsitan</gndo:personalName>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ai-yin-ssu-t&apos;an, A-po-t&apos;e</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>A-po-t&apos;e</gndo:forename>
+			<gndo:surname>Ai-yin-ssu-t&apos;an</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ai-yin-ssu-t&apos;an</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:personalName>Ai-yin-ssu-t&apos;an</gndo:personalName>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ajnštajn, Albert</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Albert</gndo:forename>
+			<gndo:surname>Ajnštajn</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ajnštajn, A.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>A.</gndo:forename>
+			<gndo:surname>Ajnštajn</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Aynishtayn</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:personalName>Aynishtayn</gndo:personalName>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Aynštayn, Ālbirt</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Ālbirt</gndo:forename>
+			<gndo:surname>Aynštayn</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Einshtein, Al&apos;bert</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Al&apos;bert</gndo:forename>
+			<gndo:surname>Einshtein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Einsteina, Alberta</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Alberta</gndo:forename>
+			<gndo:surname>Einsteina</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Einšteinas, A.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>A.</gndo:forename>
+			<gndo:surname>Einšteinas</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ėjnštejn, Al&apos;bert</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Al&apos;bert</gndo:forename>
+			<gndo:surname>Ėjnštejn</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ėjnštejn, A.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>A.</gndo:forename>
+			<gndo:surname>Ėjnštejn</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Eynšteyn, A.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>A.</gndo:forename>
+			<gndo:surname>Eynšteyn</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Eynshṭeyn, Alberṭ</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Alberṭ</gndo:forename>
+			<gndo:surname>Eynshṭeyn</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Inshtin</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:personalName>Inshtin</gndo:personalName>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ai yin si tan</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:personalName>Ai yin si tan</gndo:personalName>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Aiyinsitan</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:personalName>Aiyinsitan</gndo:personalName>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Aiyinsitan, ...</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>...</gndo:forename>
+			<gndo:surname>Aiyinsitan</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Einstein, Albert</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Albert</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>爱因斯坦, 阿尔伯特</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>阿尔伯特</gndo:forename>
+			<gndo:surname>爱因斯坦</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ајнштајн, Алберт</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Алберт</gndo:forename>
+			<gndo:surname>Ајнштајн</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Эйнштейн, Альберт</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Альберт</gndo:forename>
+			<gndo:surname>Эйнштейн</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ейнштейн, Альберт</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Альберт</gndo:forename>
+			<gndo:surname>Ейнштейн</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Айнщайн, Алберт</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Алберт</gndo:forename>
+			<gndo:surname>Айнщайн</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Αϊνστάιν, Άλμπερτ</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Άλμπερτ</gndo:forename>
+			<gndo:surname>Αϊνστάιν</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:preferredNameForThePerson>Einstein, Albert</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Albert</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:familialRelationship>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/118688405">
+				<gndo:preferredNameForThePerson>Einstein-Marić, Mileva</gndo:preferredNameForThePerson>
+			</rdf:Description>
+		</gndo:familialRelationship>
+		<gndo:familialRelationship>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/116425741">
+				<gndo:preferredNameForThePerson>Einstein, Elsa</gndo:preferredNameForThePerson>
+			</rdf:Description>
+		</gndo:familialRelationship>
+		<gndo:familialRelationship>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/116425725">
+				<gndo:preferredNameForThePerson>Einstein, Alfred</gndo:preferredNameForThePerson>
+			</rdf:Description>
+		</gndo:familialRelationship>
+		<gndo:professionalRelationship>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/116243481">
+				<gndo:preferredNameForThePerson>Dukas, Helen</gndo:preferredNameForThePerson>
+			</rdf:Description>
+		</gndo:professionalRelationship>
+		<gndo:affiliation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/136256-2">
+				<gndo:preferredNameForTheCorporateBody>Universität Prag &lt;1882&gt;</gndo:preferredNameForTheCorporateBody>
+			</rdf:Description>
+		</gndo:affiliation>
+		<gndo:affiliation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/36190-2">
+				<gndo:preferredNameForTheCorporateBody>Universität Zürich</gndo:preferredNameForTheCorporateBody>
+			</rdf:Description>
+		</gndo:affiliation>
+		<gndo:affiliation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/35495-8">
+				<gndo:preferredNameForTheCorporateBody>Preußische Akademie der Wissenschaften</gndo:preferredNameForTheCorporateBody>
+			</rdf:Description>
+		</gndo:affiliation>
+		<gndo:affiliation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/30381-1">
+				<gndo:preferredNameForTheCorporateBody>Princeton University</gndo:preferredNameForTheCorporateBody>
+			</rdf:Description>
+		</gndo:affiliation>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4045968-8">
+				<gndo:preferredNameForTheSubjectHeading>Physiker</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4137384-4">
+				<gndo:preferredNameForTheSubjectHeading>Pazifist</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4042421-2">
+				<gndo:preferredNameForTheSubjectHeading>Nobelpreisträger</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:academicDegree>Prof.</gndo:academicDegree>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#21.5p" />
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE" />
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-CH" />
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XD-US" />
+		<gndo:publication>Äther und Relativitätstheorie. - 1920</gndo:publication>
+		<gndo:publication>Geleitw. zu: Reichinstein, David: Grenzflächenvorgänge in der unbelebten und belebten Natur. - 1930</gndo:publication>
+		<gndo:publication>Geometrie und Erfahrung : erw. Fassung eines Festvortrags gehalten an der Preuss. Akad. d. Wiss. zu Berlin am 27. Jan. 1921. - 1921</gndo:publication>
+		<gndo:publication>Vorw. zu: Freundlich, Erwin F.: Die Grundlagen der Einsteinschen Gravitationstheorie. - 1916</gndo:publication>
+		<gndo:publication>Mitverf. von: Thomson, Joseph J.: James Clerk Maxwell : a commemoration volume. 1831-1931. - 1931</gndo:publication>
+		<gndo:publication>On the Method of theoretical physics. - 1933</gndo:publication>
+		<gndo:publication>Mitverf. von: Lorentz, Hendrik A.: Das Relativitätsprinzip. - 1913</gndo:publication>
+		<gndo:publication>Über die spezielle und die allgemeine Relativitätstheorie. - 1917</gndo:publication>
+		<gndo:publication>Vier Vorlesungen über Relativitätstheorie gehalten im Mai 1921 an der Universität Princeton. - 1922</gndo:publication>
+		<gndo:biographicalOrHistoricalInformation xml:lang="de">1894-1913 überwiegend in der Schweiz, 1901 Schweizer Staatsbürger; 1914-1933 in Deutschland, 1921 Nobelpreisträger für Physik; lebte emigrierte 1933 in die USA, ab 1940 amerikanischer Staatsbürger</gndo:biographicalOrHistoricalInformation>
+		<gndo:biographicalOrHistoricalInformation xml:lang="de">Auszeichnung: Nobelpreis für Physik (1921)</gndo:biographicalOrHistoricalInformation>
+		<gndo:placeOfBirth>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4061529-7">
+				<gndo:preferredNameForThePlaceOrGeographicName>Ulm</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfBirth>
+		<gndo:placeOfDeath>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4103300-0">
+				<gndo:preferredNameForThePlaceOrGeographicName>Princeton, NJ</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfDeath>
+		<gndo:placeOfActivity>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4005762-8">
+				<gndo:preferredNameForThePlaceOrGeographicName>Bern</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfActivity>
+		<gndo:placeOfActivity>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4076310-9">
+				<gndo:preferredNameForThePlaceOrGeographicName>Prag</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfActivity>
+		<gndo:placeOfActivity>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4068038-1">
+				<gndo:preferredNameForThePlaceOrGeographicName>Zürich</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfActivity>
+		<gndo:placeOfActivity>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4005728-8">
+				<gndo:preferredNameForThePlaceOrGeographicName>Berlin</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfActivity>
+		<owl:sameAs rdf:resource="http://www.filmportal.de/person/4533E35F16964C939B82033BB6259E32" />
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#male" />
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1879-03-14</gndo:dateOfBirth>
+		<gndo:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1955-04-18</gndo:dateOfDeath>
+	</rdf:Description>
+</rdf:RDF>

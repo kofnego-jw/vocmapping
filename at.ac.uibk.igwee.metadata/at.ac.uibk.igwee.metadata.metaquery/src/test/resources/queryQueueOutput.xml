@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<queryQueue>
+  <name>queryqueue</name>
+  <additionalInfo>queryqueue from csv</additionalInfo>
+  <pendingQueries>
+    <vocabularyQuery>
+      <type>PERSONAL_NAME</type>
+      <queryString>Albert Einstein</queryString>
+      <viaf>
+        <id>org.viaf</id>
+        <name>VIAF</name>
+        <uri>http://www.viaf.org/viaf/</uri>
+        <baseUri>http://www.viaf.org/viaf/</baseUri>
+      </viaf>
+      <startRow>1</startRow>
+      <maxRow>30</maxRow>
+      <name>Einstein, Albert</name>
+      <additionalInfo>Physicist</additionalInfo>
+    </vocabularyQuery>
+    <vocabularyQuery>
+      <type>PERSONAL_NAME</type>
+      <queryString>Johann Wolfgang Goethe</queryString>
+      <viaf reference="../../vocabularyQuery/viaf"/>
+      <startRow>1</startRow>
+      <maxRow>30</maxRow>
+      <name>Goethe, Johann Wolfgang von</name>
+      <additionalInfo>Author</additionalInfo>
+    </vocabularyQuery>
+    <vocabularyQuery>
+      <type>PLACE_NAME</type>
+      <queryString>Innsbruck</queryString>
+      <geonames>
+        <id>org.geonames</id>
+        <name>Geonames</name>
+        <uri>http://geonames.org/</uri>
+        <baseUri>http://geonames.org/</baseUri>
+        <vocabularyUri>http://geonames.org/</vocabularyUri>
+      </geonames>
+      <startRow>1</startRow>
+      <maxRow>30</maxRow>
+      <name>Innsbruck</name>
+      <additionalInfo>Ort in Tirol</additionalInfo>
+    </vocabularyQuery>
+    <vocabularyQuery>
+      <type>INSTITUTION_NAME</type>
+      <queryString>Brenner Archiv</queryString>
+      <viaf reference="../../vocabularyQuery/viaf"/>
+      <startRow>1</startRow>
+      <maxRow>30</maxRow>
+      <name>Forschungsinstitut Brenner-Archiv</name>
+      <additionalInfo>Institute in University Innsbruck</additionalInfo>
+    </vocabularyQuery>
+    <vocabularyQuery>
+      <type>PERSONAL_NAME</type>
+      <queryString>Ödön Horvath</queryString>
+      <viaf reference="../../vocabularyQuery/viaf"/>
+      <wikidata>
+        <id>org.wikidata</id>
+        <name>Wikidata</name>
+        <uri>http://www.wikidata.org/wiki/</uri>
+        <baseUri>http://www.wikidata.org/wiki/</baseUri>
+        <vocabularyUri>http://www.wikidata.org/wiki/</vocabularyUri>
+      </wikidata>
+      <startRow>1</startRow>
+      <maxRow>30</maxRow>
+      <name>Horvath, Ödön</name>
+      <additionalInfo>Autor</additionalInfo>
+    </vocabularyQuery>
+  </pendingQueries>
+  <results/>
+  <lastEditingPosition>0</lastEditingPosition>
+</queryQueue>

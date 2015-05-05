@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Joseph Wang</Author>
+  <LastAuthor>Joseph Wang</LastAuthor>
+  <Created>2015-04-06T19:41:49Z</Created>
+  <Company>University Innsbruck</Company>
+  <Version>14.0</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10700</WindowHeight>
+  <WindowWidth>25600</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <Date1904/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="excelcsv.csv">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="5" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="15">
+   <Row>
+    <Cell><Data ss:Type="String">Name</Data></Cell>
+    <Cell><Data ss:Type="String">Query</Data></Cell>
+    <Cell><Data ss:Type="String">Info</Data></Cell>
+    <Cell><Data ss:Type="String">Authorities</Data></Cell>
+    <Cell><Data ss:Type="String">Type</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Einstein, Albert</Data></Cell>
+    <Cell><Data ss:Type="String">Albert Einstein</Data></Cell>
+    <Cell><Data ss:Type="String">Physicist</Data></Cell>
+    <Cell><Data ss:Type="String">VIAF</Data></Cell>
+    <Cell><Data ss:Type="String">Person</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Goethe, Johann Wolfgang von</Data></Cell>
+    <Cell><Data ss:Type="String">Johann Wolfgang Goethe</Data></Cell>
+    <Cell><Data ss:Type="String">Author</Data></Cell>
+    <Cell><Data ss:Type="String">VIAF</Data></Cell>
+    <Cell><Data ss:Type="String">Person</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Innsbruck</Data></Cell>
+    <Cell><Data ss:Type="String">Innsbruck</Data></Cell>
+    <Cell><Data ss:Type="String">Ort in Tirol</Data></Cell>
+    <Cell><Data ss:Type="String">Geonames</Data></Cell>
+    <Cell><Data ss:Type="String">Place</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Forschungsinstitut Brenner-Archiv</Data></Cell>
+    <Cell><Data ss:Type="String">Brenner Archiv</Data></Cell>
+    <Cell><Data ss:Type="String">Institute in University Innsbruck</Data></Cell>
+    <Cell><Data ss:Type="String">VIAF Wikidata</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

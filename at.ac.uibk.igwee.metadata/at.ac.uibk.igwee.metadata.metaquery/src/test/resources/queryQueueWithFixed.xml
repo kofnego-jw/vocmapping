@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<queryQueue>
+  <name>QueryQueue</name>
+  <additionalInfo>created by at.ac.uibk.igwee.webapp.metadata.mdmapper.controller.PreQueryController</additionalInfo>
+  <pendingQueries/>
+  <results>
+    <vocabularyQueryResult>
+      <query class="vocabularyQuery">
+        <type>PERSONAL_NAME</type>
+        <queryString>Einstein, Albert</queryString>
+        <viaf>
+          <id>org.viaf</id>
+          <name>VIAF</name>
+          <uri>http://www.viaf.org/viaf/</uri>
+          <baseUri>http://www.viaf.org/viaf/</baseUri>
+        </viaf>
+        <wikidata>
+          <id>org.wikidata</id>
+          <name>Wikidata</name>
+          <uri>http://www.wikidata.org/wiki/</uri>
+          <baseUri>http://www.wikidata.org/wiki/</baseUri>
+          <vocabularyUri>http://www.wikidata.org/wiki/</vocabularyUri>
+        </wikidata>
+        <startRow>1</startRow>
+        <maxRow>30</maxRow>
+        <name>Einstein, Albert</name>
+        <additionalInfo>Einstein, Albert</additionalInfo>
+      </query>
+      <totalhits>-1</totalhits>
+      <results/>
+      <vocabularyQuery reference="../query"/>
+      <fixedResult class="wikidataVocabulary">
+        <id>wikidata:Q937</id>
+        <uri>http://www.wikidata.org/wiki/Q937</uri>
+        <vocabularyType>PERSONAL_NAME</vocabularyType>
+        <sameAsSet/>
+        <wikidataId>Q937</wikidataId>
+        <labels>
+          <entry>
+            <string>de-at</string>
+            <string>Albert Einstein</string>
+          </entry>
+          <entry>
+            <string>de</string>
+            <string>Albert Einstein</string>
+          </entry>
+          <entry>
+            <string>en-ca</string>
+            <string>Albert Einstein</string>
+          </entry>
+          <entry>
+            <string>en</string>
+            <string>Albert Einstein</string>
+          </entry>
+          <entry>
+            <string>de-ch</string>
+            <string>Albert Einstein</string>
+          </entry>
+          <entry>
+            <string>en-gb</string>
+            <string>Albert Einstein</string>
+          </entry>
+        </labels>
+      </fixedResult>
+    </vocabularyQueryResult>
+  </results>
+  <lastEditingPosition>0</lastEditingPosition>
+</queryQueue>

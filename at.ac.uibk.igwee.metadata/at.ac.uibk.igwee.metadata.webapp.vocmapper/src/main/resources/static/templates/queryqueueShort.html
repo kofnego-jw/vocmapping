@@ -1,0 +1,50 @@
+<div ng-controller="QueryQueueController as qqC">
+
+    <h3>Query Queue on Server</h3>
+
+    <p><button ng-click="qqC.setShowing('pending')">Pending queries: {{queryQueue.pendingQueries.length}}</button>
+
+    <button ng-click="qqC.setShowing('result')">Number of results: {{queryQueue.results.length}}</button></p>
+
+
+    <div ng-show="qqC.isShowing('pending')">
+        <h4>Pending Queries</h4>
+        <table class="table">
+            <thead>
+            <tr>
+                <td>Name</td>
+                <td>Querystring</td>
+            </tr>
+            </thead>
+            <tbody>
+            <tr ng-repeat="pending in queryQueue.pendingQueries">
+                <td>{{pending.name}}</td>
+                <td>{{pending.queryString}}</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+    <div ng-show="qqC.isShowing('result')">
+        <h4>Results</h4>
+        <table class="table">
+            <thead>
+            <tr>
+                <td>Name</td>
+                <td>Querystring</td>
+                <td>No. of results</td>
+                <td>Fixed</td>
+            </tr>
+            </thead>
+            <tbody>
+            <tr ng-repeat="result in queryQueue.results">
+                <td>{{result.query.name}}</td>
+                <td>{{result.query.queryString}}</td>
+                <td>{{result.resultCounts}}</td>
+                <td><span ng-show="result.fixedResult!=null"><input disabled type="checkbox" checked/> </span>
+                    <span ng-show="result.fixedResult==null"><input disabled type="checkbox" /> </span></td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+
+</div>

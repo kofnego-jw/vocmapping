@@ -1,0 +1,1277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/"><version>1.1</version><numberOfRecords>48</numberOfRecords><records><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/116425857">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/49976464"/>
+		<gndo:gndIdentifier>116425857</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)116425857</gndo:oldAuthorityNumber>
+		<gndo:preferredNameForThePerson>Einstein, Lotte</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Lotte</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XD-US"/>
+		<gndo:periodOfActivity>1937</gndo:periodOfActivity>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#female"/>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>5</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/101388244X">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/122050020"/>
+		<gndo:gndIdentifier>101388244X</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)101388244X</gndo:oldAuthorityNumber>
+		<gndo:preferredNameForThePerson>Einstein, Arthur W.</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Arthur W.</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#notKnown"/>
+		<gndo:dateOfBirthAndDeath>[1933]</gndo:dateOfBirthAndDeath>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>6</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/116425814">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/8139282"/>
+		<gndo:gndIdentifier>116425814</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)116425814</gndo:oldAuthorityNumber>
+		<gndo:preferredNameForThePerson>Einstein, Josi</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Josi</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE"/>
+		<gndo:periodOfActivity>1932-1935</gndo:periodOfActivity>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#female"/>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>7</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/1019224525">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/228735602"/>
+		<gndo:gndIdentifier>1019224525</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)1019224525</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)7850970-1</gndo:oldAuthorityNumber>
+		<gndo:preferredNameForThePerson>Einstein, Gustav</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Gustav</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4166042-0">
+				<gndo:preferredNameForTheSubjectHeading>Kunstsammler</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#13.1bp"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE"/>
+		<gndo:biographicalOrHistoricalInformation xml:lang="de">Sammler jüd. Kultgeräte, versteigert bei Helbing 1932</gndo:biographicalOrHistoricalInformation>
+		<gndo:periodOfActivity>1932</gndo:periodOfActivity>
+		<gndo:placeOfActivity>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4127793-4">
+				<gndo:preferredNameForThePlaceOrGeographicName>München</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfActivity>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#notKnown"/>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>8</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/126637148">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/13307536"/>
+		<gndo:gndIdentifier>126637148</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)126637148</gndo:oldAuthorityNumber>
+		<gndo:preferredNameForThePerson>Einstein, Otto</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Otto</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:publication>Leben, Krankheit und Tod als Kolloid-Erscheinungen dargest.</gndo:publication>
+		<gndo:periodOfActivity>1931</gndo:periodOfActivity>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#notKnown"/>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>9</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/127418490">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/18245628"/>
+		<gndo:gndIdentifier>127418490</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)127418490</gndo:oldAuthorityNumber>
+		<gndo:preferredNameForThePerson>Einstein, Hugo</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Hugo</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:publication>Der @Kampf um das Kausalgesetz in der jüngsten Physik</gndo:publication>
+		<gndo:periodOfActivity>1929</gndo:periodOfActivity>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#notKnown"/>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>10</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/1062119568">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<gndo:gndIdentifier>1062119568</gndo:gndIdentifier>
+		<gndo:preferredNameForThePerson>Einstein, Charles</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Charles</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4053309-8">
+				<gndo:preferredNameForTheSubjectHeading>Schriftsteller</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:placeOfBirth>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4007840-1">
+				<gndo:preferredNameForThePlaceOrGeographicName>Boston, Mass.</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfBirth>
+		<gndo:placeOfDeathAsLiteral>Michigan City, Indiana, USA</gndo:placeOfDeathAsLiteral>
+		<owl:sameAs rdf:resource="http://www.filmportal.de/person/B417CC1CA28B4B7586954AC20B8489D3"/>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#male"/>
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1926-08-02</gndo:dateOfBirth>
+		<gndo:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-03-07</gndo:dateOfDeath>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>11</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/125191936">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/30491502"/>
+		<gndo:gndIdentifier>125191936</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)125191936</gndo:oldAuthorityNumber>
+		<gndo:preferredNameForThePerson>Einstein, Fritz</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Fritz</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:publication>Zur Frage der Einwirkung von Trypsin auf Eingeweidewürmer und isolierte Zellen</gndo:publication>
+		<gndo:periodOfActivity>1923</gndo:periodOfActivity>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#notKnown"/>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>12</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/128081023">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/20724667"/>
+		<gndo:gndIdentifier>128081023</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)128081023</gndo:oldAuthorityNumber>
+		<gndo:preferredNameForThePerson>Einstein, Lothar</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Lothar</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:publication>Klinischer Beitrag zur Radiumbestrahlungsbehandlung bei Metropathia haemorrhagica</gndo:publication>
+		<gndo:periodOfActivity>1923</gndo:periodOfActivity>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#notKnown"/>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>13</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/116425768">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/32748192"/>
+		<gndo:gndIdentifier>116425768</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)116425768</gndo:oldAuthorityNumber>
+		<gndo:preferredNameForThePerson>Einstein, Ernst</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Ernst</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4029050-5">
+				<gndo:preferredNameForTheSubjectHeading>Jurist</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE"/>
+		<gndo:periodOfActivity>1922</gndo:periodOfActivity>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#male"/>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>14</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/116425881">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/Siegfried_Einstein"/>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Siegfried_Einstein"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/62299748"/>
+		<gndo:gndIdentifier>116425881</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)116425881</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)7625226-7</gndo:oldAuthorityNumber>
+		<gndo:variantNameForThePerson>Einstein, Siegfried Joseph</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Siegfried Joseph</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:preferredNameForThePerson>Einstein, Siegfried</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Siegfried</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4053309-8">
+				<gndo:preferredNameForTheSubjectHeading>Schriftsteller</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4168391-2">
+				<gndo:preferredNameForTheSubjectHeading>Lyriker</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#12.2p"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-CH"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE"/>
+		<gndo:languageCode rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
+		<gndo:biographicalOrHistoricalInformation xml:lang="de">Dt. Schriftsteller, Dichter, Essayist; Verfolgter des NS-Regimes</gndo:biographicalOrHistoricalInformation>
+		<gndo:periodOfActivity>1944-1954</gndo:periodOfActivity>
+		<gndo:placeOfBirth>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4034744-8">
+				<gndo:preferredNameForThePlaceOrGeographicName>Laupheim</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfBirth>
+		<gndo:placeOfDeath>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4037372-1">
+				<gndo:preferredNameForThePlaceOrGeographicName>Mannheim</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfDeath>
+		<gndo:placeOfActivity>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4051594-1">
+				<gndo:preferredNameForThePlaceOrGeographicName>Sankt Gallen</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfActivity>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#male"/>
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1919-11-30</gndo:dateOfBirth>
+		<gndo:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1983-04-25</gndo:dateOfDeath>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>15</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/1061884880">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<gndo:gndIdentifier>1061884880</gndo:gndIdentifier>
+		<gndo:preferredNameForThePerson>Einstein, Oskar</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Oskar</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4324247-9">
+				<gndo:preferredNameForTheSubjectHeading>Filmproduzent</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#15.3p"/>
+		<gndo:periodOfActivity>1917-1921</gndo:periodOfActivity>
+		<owl:sameAs rdf:resource="http://www.filmportal.de/person/833F7C6462624352BA74BBA16579B5E8"/>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#male"/>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>16</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/13250622X">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/45464795"/>
+		<gndo:gndIdentifier>13250622X</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)13250622X</gndo:oldAuthorityNumber>
+		<gndo:variantNameForThePerson>Auproux, Nina</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Nina</gndo:forename>
+			<gndo:surname>Auproux</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Auproux, Nina Einstein-</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Nina Einstein-</gndo:forename>
+			<gndo:surname>Auproux</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Einstein, Nina</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Nina</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Einstein, Nina Auproux-</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Nina Auproux-</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Einstein-Auproux, Nina</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Nina</gndo:forename>
+			<gndo:surname>Einstein-Auproux</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:preferredNameForThePerson>Auproux-Einstein, Nina</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Nina</gndo:forename>
+			<gndo:surname>Auproux-Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:familialRelationship>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/118529587">
+				<gndo:preferredNameForThePerson>Einstein, Carl</gndo:preferredNameForThePerson>
+			</rdf:Description>
+		</gndo:familialRelationship>
+		<gndo:familialRelationship>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/118812645">
+				<gndo:preferredNameForThePerson>Pfemfert, Franz</gndo:preferredNameForThePerson>
+			</rdf:Description>
+		</gndo:familialRelationship>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-FR"/>
+		<gndo:placeOfExile>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4018145-5">
+				<gndo:preferredNameForThePlaceOrGeographicName>Frankreich</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfExile>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#female"/>
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1915</gndo:dateOfBirth>
+		<gndo:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1986</gndo:dateOfDeath>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>17</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/118810928">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/Eduard_Einstein"/>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Eduard_Einstein"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/42634344"/>
+		<gndo:gndIdentifier>118810928</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)118810928</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)4123114-4</gndo:oldAuthorityNumber>
+		<gndo:preferredNameForThePerson>Einstein, Eduard</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Eduard</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#6.1p"/>
+		<gndo:biographicalOrHistoricalInformation xml:lang="de">Jüngster Sohn v. Mileva u. Albert Einstein</gndo:biographicalOrHistoricalInformation>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#notKnown"/>
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1910</gndo:dateOfBirth>
+		<gndo:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1965</gndo:dateOfDeath>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>18</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/143075845">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/Hans_Albert_Einstein"/>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Hans_Albert_Einstein"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/67420636"/>
+		<gndo:gndIdentifier>143075845</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)143075845</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)125191944</gndo:oldAuthorityNumber>
+		<gndo:variantNameForThePerson>Einstein, Hans Albert</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Hans Albert</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Einstein, Hans-Albert</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Hans-Albert</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Einstein, H. A.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>H. A.</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:preferredNameForThePerson>Einstein, Hans A.</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Hans A.</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4026955-3">
+				<gndo:preferredNameForTheSubjectHeading>Ingenieur</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:professionOrOccupationAsLiteral>Wasserbauingenieur</gndo:professionOrOccupationAsLiteral>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XD-US"/>
+		<gndo:publication>Der Geschiebetrieb als Wahrscheinlichkeitsproblem. - 1936</gndo:publication>
+		<gndo:publication>The bed-load function for sediment transportation in open channel flows. - 1950</gndo:publication>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#notKnown"/>
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1904</gndo:dateOfBirth>
+		<gndo:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1973</gndo:dateOfDeath>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>19</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/116425792">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/25353447"/>
+		<gndo:gndIdentifier>116425792</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)116425792</gndo:oldAuthorityNumber>
+		<gndo:variantNameForThePerson>Einstein, Gertrude</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Gertrude</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:preferredNameForThePerson>Einstein, Gertrud</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Gertrud</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:affiliationAsLiteral>Soziale Frauenschule der Stadt München</gndo:affiliationAsLiteral>
+		<gndo:affiliationAsLiteral>München</gndo:affiliationAsLiteral>
+		<gndo:affiliationAsLiteral>Walt Disney Enterprises</gndo:affiliationAsLiteral>
+		<gndo:affiliationAsLiteral>New York Public Library</gndo:affiliationAsLiteral>
+		<gndo:affiliation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/1006049-2">
+				<gndo:preferredNameForTheCorporateBody>New York Public Library</gndo:preferredNameForTheCorporateBody>
+			</rdf:Description>
+		</gndo:affiliation>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4054353-5">
+				<gndo:preferredNameForTheSubjectHeading>Sekretärin</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4201917-5">
+				<gndo:preferredNameForTheSubjectHeading>Sozialarbeiterin</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE"/>
+		<gndo:periodOfActivity>1926-1939</gndo:periodOfActivity>
+		<gndo:placeOfBirth>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4127793-4">
+				<gndo:preferredNameForThePlaceOrGeographicName>München</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfBirth>
+		<gndo:placeOfActivity>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4042011-5">
+				<gndo:preferredNameForThePlaceOrGeographicName>New York, NY</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfActivity>
+		<gndo:placeOfExile>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4078704-7">
+				<gndo:preferredNameForThePlaceOrGeographicName>USA</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfExile>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#female"/>
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1904-02-28</gndo:dateOfBirth>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>20</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/12174406X">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/Lieserl_Mari%C4%87"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/63318102"/>
+		<gndo:gndIdentifier>12174406X</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)12174406X</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)4577725-1</gndo:oldAuthorityNumber>
+		<gndo:variantNameForThePerson>Einstein-Marić, Lieserl</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Lieserl</gndo:forename>
+			<gndo:surname>Einstein-Marić</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Marić, Lieserl Einstein-</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Lieserl Einstein-</gndo:forename>
+			<gndo:surname>Marić</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Einstein Marić, Lieserl</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Lieserl</gndo:forename>
+			<gndo:surname>Einstein Marić</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Marić, Lieserl</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Lieserl</gndo:forename>
+			<gndo:surname>Marić</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:preferredNameForThePerson>Einstein, Lieserl</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Lieserl</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#00p"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XD-US"/>
+		<gndo:biographicalOrHistoricalInformation xml:lang="de">geboren in Novi Sad; Tochter von Albert Einstein aus erster Ehe mit Mileva Marić</gndo:biographicalOrHistoricalInformation>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#notKnown"/>
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1902</gndo:dateOfBirth>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>21</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/116425865">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/47513127"/>
+		<gndo:gndIdentifier>116425865</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)116425865</gndo:oldAuthorityNumber>
+		<gndo:variantNameForThePerson>Löwenthal, Margot</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Margot</gndo:forename>
+			<gndo:surname>Löwenthal</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:preferredNameForThePerson>Einstein, Margot</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Margot</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:familialRelationship>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/118529579">
+				<gndo:preferredNameForThePerson>Einstein, Albert</gndo:preferredNameForThePerson>
+			</rdf:Description>
+		</gndo:familialRelationship>
+		<gndo:familialRelationship>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/116425741">
+				<gndo:preferredNameForThePerson>Einstein, Elsa</gndo:preferredNameForThePerson>
+			</rdf:Description>
+		</gndo:familialRelationship>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#16.5p"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XD-US"/>
+		<gndo:biographicalOrHistoricalInformation xml:lang="de">Caputh; Princeton (Wirkungsort)</gndo:biographicalOrHistoricalInformation>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#female"/>
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1899</gndo:dateOfBirth>
+		<gndo:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1986</gndo:dateOfDeath>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>22</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/1025300947">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/260984723"/>
+		<gndo:gndIdentifier>1025300947</gndo:gndIdentifier>
+		<gndo:variantNameForThePerson>Löwenthal, Ilse</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Ilse</gndo:forename>
+			<gndo:surname>Löwenthal</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Kayser, Ilse</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Ilse</gndo:forename>
+			<gndo:surname>Kayser</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:preferredNameForThePerson>Einstein, Ilse</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Ilse</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:familialRelationship>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/116425741">
+				<gndo:preferredNameForThePerson>Einstein, Elsa</gndo:preferredNameForThePerson>
+			</rdf:Description>
+		</gndo:familialRelationship>
+		<gndo:familialRelationship>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/116425865">
+				<gndo:preferredNameForThePerson>Einstein, Margot</gndo:preferredNameForThePerson>
+			</rdf:Description>
+		</gndo:familialRelationship>
+		<gndo:biographicalOrHistoricalInformation xml:lang="de">Stieftochter Albert Einsteins</gndo:biographicalOrHistoricalInformation>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#female"/>
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1897</gndo:dateOfBirth>
+		<gndo:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1934</gndo:dateOfDeath>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>23</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/118824481">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/Hertha_Nathorff"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/71516770"/>
+		<gndo:gndIdentifier>118824481</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)118824481</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)4140000-8</gndo:oldAuthorityNumber>
+		<gndo:variantNameForThePerson>Einstein-Nathorff, Hertha</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Hertha</gndo:forename>
+			<gndo:surname>Einstein-Nathorff</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Einstein, Hertha</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Hertha</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Nātorufu, Heruta</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Heruta</gndo:forename>
+			<gndo:surname>Nātorufu</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:preferredNameForThePerson>Nathorff, Hertha</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Hertha</gndo:forename>
+			<gndo:surname>Nathorff</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:academicDegree>Dr.</gndo:academicDegree>
+		<gndo:professionOrOccupationAsLiteral>Ärztin</gndo:professionOrOccupationAsLiteral>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4140665-5">
+				<gndo:preferredNameForTheSubjectHeading>Ärztin</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:professionOrOccupationAsLiteral>Psychotherapeutin</gndo:professionOrOccupationAsLiteral>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4301430-6">
+				<gndo:preferredNameForTheSubjectHeading>Psychotherapeutin</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#27.20p"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XD-US"/>
+		<gndo:biographicalOrHistoricalInformation xml:lang="de">Emigrierte 1939 in die USA; Dt. Ärztin, Ehe- und Familienberaterin</gndo:biographicalOrHistoricalInformation>
+		<gndo:placeOfBirthAsLiteral>Laupheim</gndo:placeOfBirthAsLiteral>
+		<gndo:placeOfDeathAsLiteral>New York</gndo:placeOfDeathAsLiteral>
+		<gndo:placeOfExile>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4078704-7">
+				<gndo:preferredNameForThePlaceOrGeographicName>USA</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfExile>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#female"/>
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1895-06-05</gndo:dateOfBirth>
+		<gndo:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1993-06-10</gndo:dateOfDeath>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>24</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/133566668">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/62741062"/>
+		<gndo:gndIdentifier>133566668</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)133566668</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)101613598</gndo:oldAuthorityNumber>
+		<gndo:preferredNameForThePerson>Einstein, Norbert</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Norbert</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4066533-1">
+				<gndo:preferredNameForTheSubjectHeading>Wirtschaftswissenschaftler</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE"/>
+		<gndo:publication>Einstein, Norbert: Der Erfolg. - 1919</gndo:publication>
+		<gndo:biographicalOrHistoricalInformation xml:lang="de">Gewerkschaftssekretär in Stuttgart, Bankangestellter und Dozent an der Universität Frankfurt/M., 1937 Emigration, nach 1952 in den USA, Wirtschaftswissenschaftler in Seattle</gndo:biographicalOrHistoricalInformation>
+		<gndo:placeOfBirth>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4032215-4">
+				<gndo:preferredNameForThePlaceOrGeographicName>Konstanz</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfBirth>
+		<gndo:placeOfDeathAsLiteral>Seattle</gndo:placeOfDeathAsLiteral>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#male"/>
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1892</gndo:dateOfBirth>
+		<gndo:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1980</gndo:dateOfDeath>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>25</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/128740078">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/65067288"/>
+		<gndo:gndIdentifier>128740078</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)128740078</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)4766553-1</gndo:oldAuthorityNumber>
+		<gndo:variantNameForThePerson>Ramm, Maria</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Maria</gndo:forename>
+			<gndo:surname>Ramm</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Schaefer, Maria</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Maria</gndo:forename>
+			<gndo:surname>Schaefer</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Einstein-Schaefer, Maria</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Maria</gndo:forename>
+			<gndo:surname>Einstein-Schaefer</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:preferredNameForThePerson>Einstein, Maria</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Maria</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#11.2p"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-RU"/>
+		<gndo:publication>Ognev, Nikolaj [Pseud.]: Das Tagebuch des Schülers Kostja Rjabzew. - 1928-1929</gndo:publication>
+		<gndo:biographicalOrHistoricalInformation xml:lang="de">Dt. Übersetzerin, in Russland geboren</gndo:biographicalOrHistoricalInformation>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#notKnown"/>
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1890</gndo:dateOfBirth>
+		<gndo:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1975</gndo:dateOfDeath>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>26</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/126299528">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/57601054"/>
+		<gndo:gndIdentifier>126299528</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)126299528</gndo:oldAuthorityNumber>
+		<gndo:preferredNameForThePerson>Einstein, D.</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>D.</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:publication>Die @Einrichtung des Gottesdienstes bei den israelitischen Gemeinden des Grossherzogtums Baden</gndo:publication>
+		<gndo:periodOfActivity>1890</gndo:periodOfActivity>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#notKnown"/>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>27</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/117497975">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/32775584"/>
+		<gndo:gndIdentifier>117497975</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)117497975</gndo:oldAuthorityNumber>
+		<gndo:preferredNameForThePerson>Einstein, Jacob</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Jacob</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4131091-3">
+				<gndo:preferredNameForTheSubjectHeading>Elektrotechniker</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE"/>
+		<gndo:periodOfActivity>1890</gndo:periodOfActivity>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#male"/>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>28</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/1012796698">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/171672549"/>
+		<gndo:gndIdentifier>1012796698</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)1012796698</gndo:oldAuthorityNumber>
+		<gndo:preferredNameForThePerson>Einstein, Gustav</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Gustav</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4003157-3">
+				<gndo:preferredNameForTheSubjectHeading>Arzt</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:professionOrOccupationAsLiteral>Jude</gndo:professionOrOccupationAsLiteral>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#00p"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE"/>
+		<gndo:biographicalOrHistoricalInformation xml:lang="de">Arzt</gndo:biographicalOrHistoricalInformation>
+		<gndo:placeOfBirth>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4058282-6">
+				<gndo:preferredNameForThePlaceOrGeographicName>Stuttgart</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfBirth>
+		<gndo:placeOfDeathAsLiteral>New York &lt;NY> (USA)</gndo:placeOfDeathAsLiteral>
+		<gndo:placeOfActivity>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4058282-6">
+				<gndo:preferredNameForThePlaceOrGeographicName>Stuttgart</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfActivity>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#notKnown"/>
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1885-03-01</gndo:dateOfBirth>
+		<gndo:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1962-05-02</gndo:dateOfDeath>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>29</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/118529587">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/Carl_Einstein"/>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Carl_Einstein"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/34473997"/>
+		<gndo:gndIdentifier>118529587</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)118529587</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)127558993</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)4013940-2</gndo:oldAuthorityNumber>
+		<gndo:variantNameForThePerson>Einstein, Karl</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Karl</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>カール・アインシュタイン</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:personalName>カール・アインシュタイン</gndo:personalName>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:preferredNameForThePerson>Einstein, Carl</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Carl</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4053309-8">
+				<gndo:preferredNameForTheSubjectHeading>Schriftsteller</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4165775-5">
+				<gndo:preferredNameForTheSubjectHeading>Kritiker</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4033654-2">
+				<gndo:preferredNameForTheSubjectHeading>Kunsthistoriker</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#12.2p"/>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#13.1bp"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-FR"/>
+		<gndo:languageCode rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
+		<gndo:publication>Der unentwegte Platoniker</gndo:publication>
+		<gndo:biographicalOrHistoricalInformation xml:lang="de">lebte ab 1928 in Frankreich; Dt. Kunsthistoriker und Schriftsteller</gndo:biographicalOrHistoricalInformation>
+		<gndo:placeOfBirth>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4041991-5">
+				<gndo:preferredNameForThePlaceOrGeographicName>Neuwied</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfBirth>
+		<gndo:placeOfExile>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4018145-5">
+				<gndo:preferredNameForThePlaceOrGeographicName>Frankreich</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfExile>
+		<gndo:placeOfExile>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4055964-6">
+				<gndo:preferredNameForThePlaceOrGeographicName>Spanien</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfExile>
+		<gndo:placeOfExile>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4018145-5">
+				<gndo:preferredNameForThePlaceOrGeographicName>Frankreich</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfExile>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#male"/>
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1885-04-26</gndo:dateOfBirth>
+		<gndo:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1940-07-05</gndo:dateOfDeath>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>30</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/117408522">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/Maja_Einstein"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/27847852"/>
+		<gndo:gndIdentifier>117408522</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)117408522</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)4825729-1</gndo:oldAuthorityNumber>
+		<gndo:variantNameForThePerson>Einstein, Maria</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Maria</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Einstein, Maja</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Maja</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Einstein, Maja Winteler-</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Maja Winteler-</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Winteler Einstein, Maja</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Maja</gndo:forename>
+			<gndo:surname>Winteler Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Winteler-Einstein, Maja</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Maja</gndo:forename>
+			<gndo:surname>Winteler-Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:preferredNameForThePerson>Winteler, Maja</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Maja</gndo:forename>
+			<gndo:surname>Winteler</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/7539218-5">
+				<gndo:preferredNameForTheSubjectHeading>Romanistin</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#12.1p"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-CH"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XD-US"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-IT"/>
+		<gndo:biographicalOrHistoricalInformation xml:lang="de">Schwester von Albert Einstein; Dt. Romanistin, lebte in d. Schweiz, in Italien u. seit 1939 in d. USA</gndo:biographicalOrHistoricalInformation>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#female"/>
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1881</gndo:dateOfBirth>
+		<gndo:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1951</gndo:dateOfDeath>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>31</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/116425725">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/Alfred_Einstein"/>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Alfred_Einstein"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/61634867"/>
+		<gndo:gndIdentifier>116425725</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)116425725</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)134817095</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)127191194</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-101c)31050709X</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)7587548-2</gndo:oldAuthorityNumber>
+		<gndo:variantNameForThePerson>Einstein, A.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>A.</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Einstein, Alfredo</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Alfredo</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:preferredNameForThePerson>Einstein, Alfred</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Alfred</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:familialRelationship>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/118529579">
+				<gndo:preferredNameForThePerson>Einstein, Albert</gndo:preferredNameForThePerson>
+			</rdf:Description>
+		</gndo:familialRelationship>
+		<gndo:academicDegree>Dr. phil., Prof.</gndo:academicDegree>
+		<gndo:fieldOfStudy>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4040802-4">
+				<gndo:preferredNameForTheSubjectHeading>Musik</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:fieldOfStudy>
+		<gndo:professionOrOccupationAsLiteral>Musikwissenschaftler</gndo:professionOrOccupationAsLiteral>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4170836-2">
+				<gndo:preferredNameForTheSubjectHeading>Musikwissenschaftler</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:professionOrOccupationAsLiteral>Musikkritiker</gndo:professionOrOccupationAsLiteral>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4120774-9">
+				<gndo:preferredNameForTheSubjectHeading>Musikkritiker</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#14.4p"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-GB"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-IT"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XD-US"/>
+		<gndo:publication>Hrsg. von: Briefe deutscher Musiker. - 1945</gndo:publication>
+		<gndo:publication>Bearb. von: Köchel, Ludwig von: Chronologisch-thematisches Verzeichniss sämmtlicher Tonwerke Wolfgang Amade Mozarts. - 1937</gndo:publication>
+		<gndo:publication>Hrsg. von: Mozart, Wolfgang Amadeus: Don Giovanni</gndo:publication>
+		<gndo:publication>Greatness in music. - 1941</gndo:publication>
+		<gndo:publication>Bearb. von: Gluck, Christoph Williband: L'Innocenza giustificata &lt;Der Triumpf der Unschuld> ... - 1937</gndo:publication>
+		<gndo:publication>The Italian madrigal</gndo:publication>
+		<gndo:publication>Bearb. von: Italienische Musiker 1567 - 1625 ... - 1934</gndo:publication>
+		<gndo:publication>Music in the romantic era. - 1947</gndo:publication>
+		<gndo:publication>Bearb. von: Riemann, Hugo: Musik-Lexicon. - 1919</gndo:publication>
+		<gndo:publication>Bearb. von: Riemann, Hugo: Musik-Lexicon. - 1922</gndo:publication>
+		<gndo:publication>Bearb. von: Riemann, Hugo: Musik-Lexikon. - 1929</gndo:publication>
+		<gndo:publication>Bearb. von: Das neue Musiklexikon. - 1926</gndo:publication>
+		<gndo:publication>Hrsg. von: Zeitschrift für Musikwissenschaft. - 1918 - 1933</gndo:publication>
+		<gndo:biographicalOrHistoricalInformation xml:lang="de">Amerikan. Musikwissenschaftler und Musikkritiker dt. Herkunft, Emigration 1933 nach Großbritannien, 1935 nach Italien und 1938 in die USA, 1945 amerikan. Staatsbürger; Cousin von Albert Einstein; Dr. phil. 1903, Prof. in den USA</gndo:biographicalOrHistoricalInformation>
+		<gndo:placeOfBirth>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4127793-4">
+				<gndo:preferredNameForThePlaceOrGeographicName>München</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfBirth>
+		<gndo:placeOfDeathAsLiteral>El Cerrito, Calif.</gndo:placeOfDeathAsLiteral>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#male"/>
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1880-12-30</gndo:dateOfBirth>
+		<gndo:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-02-13</gndo:dateOfDeath>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>32</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/118529579">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/Albert_Einstein"/>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Albert_Einstein"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/75121530"/>
+		<gndo:gndIdentifier>118529579</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588)185770878</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)185770878</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)118529579</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)13745788X</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)135386861</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-101c)311076866</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)4013939-6</gndo:oldAuthorityNumber>
+		<gndo:variantNameForThePerson>Einstein, A.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>A.</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Einstein, ...</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>...</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ainshtain, Albert</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Albert</gndo:forename>
+			<gndo:surname>Ainshtain</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ainshutain, A.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>A.</gndo:forename>
+			<gndo:surname>Ainshutain</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ainshutain, ...</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>...</gndo:forename>
+			<gndo:surname>Ainshutain</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ainštain, ...</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>...</gndo:forename>
+			<gndo:surname>Ainštain</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ainsten, ...</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>...</gndo:forename>
+			<gndo:surname>Ainsten</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ayinsten, ...</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>...</gndo:forename>
+			<gndo:surname>Ayinsten</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ai͏̈nstai͏̈n, Albertos</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Albertos</gndo:forename>
+			<gndo:surname>Ai͏̈nstai͏̈n</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ai͏̈nstai͏̈n, Almpert</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Almpert</gndo:forename>
+			<gndo:surname>Ai͏̈nstai͏̈n</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ainstaina, Albarta</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Albarta</gndo:forename>
+			<gndo:surname>Ainstaina</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ainsyut'ain, Alberŭt'ŭ</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Alberŭt'ŭ</gndo:forename>
+			<gndo:surname>Ainsyut'ain</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Aiyinsitan</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:personalName>Aiyinsitan</gndo:personalName>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ai-yin-ssu-t'an, A-po-t'e</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>A-po-t'e</gndo:forename>
+			<gndo:surname>Ai-yin-ssu-t'an</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ai-yin-ssu-t'an</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:personalName>Ai-yin-ssu-t'an</gndo:personalName>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ajnštajn, Albert</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Albert</gndo:forename>
+			<gndo:surname>Ajnštajn</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ajnštajn, A.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>A.</gndo:forename>
+			<gndo:surname>Ajnštajn</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Aynishtayn</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:personalName>Aynishtayn</gndo:personalName>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Aynštayn, Ālbirt</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Ālbirt</gndo:forename>
+			<gndo:surname>Aynštayn</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Einshtein, Al'bert</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Al'bert</gndo:forename>
+			<gndo:surname>Einshtein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Einsteina, Alberta</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Alberta</gndo:forename>
+			<gndo:surname>Einsteina</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Einšteinas, A.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>A.</gndo:forename>
+			<gndo:surname>Einšteinas</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ėjnštejn, Al'bert</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Al'bert</gndo:forename>
+			<gndo:surname>Ėjnštejn</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ėjnštejn, A.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>A.</gndo:forename>
+			<gndo:surname>Ėjnštejn</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Eynšteyn, A.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>A.</gndo:forename>
+			<gndo:surname>Eynšteyn</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Eynshṭeyn, Alberṭ</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Alberṭ</gndo:forename>
+			<gndo:surname>Eynshṭeyn</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Inshtin</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:personalName>Inshtin</gndo:personalName>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ai yin si tan</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:personalName>Ai yin si tan</gndo:personalName>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Aiyinsitan</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:personalName>Aiyinsitan</gndo:personalName>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Aiyinsitan, ...</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>...</gndo:forename>
+			<gndo:surname>Aiyinsitan</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Einstein, Albert</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Albert</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>爱因斯坦, 阿尔伯特</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>阿尔伯特</gndo:forename>
+			<gndo:surname>爱因斯坦</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ајнштајн, Алберт</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Алберт</gndo:forename>
+			<gndo:surname>Ајнштајн</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Эйнштейн, Альберт</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Альберт</gndo:forename>
+			<gndo:surname>Эйнштейн</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Ейнштейн, Альберт</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Альберт</gndo:forename>
+			<gndo:surname>Ейнштейн</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Айнщайн, Алберт</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Алберт</gndo:forename>
+			<gndo:surname>Айнщайн</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Αϊνστάιν, Άλμπερτ</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Άλμπερτ</gndo:forename>
+			<gndo:surname>Αϊνστάιν</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:preferredNameForThePerson>Einstein, Albert</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Albert</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:familialRelationship>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/118688405">
+				<gndo:preferredNameForThePerson>Einstein-Marić, Mileva</gndo:preferredNameForThePerson>
+			</rdf:Description>
+		</gndo:familialRelationship>
+		<gndo:familialRelationship>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/116425741">
+				<gndo:preferredNameForThePerson>Einstein, Elsa</gndo:preferredNameForThePerson>
+			</rdf:Description>
+		</gndo:familialRelationship>
+		<gndo:familialRelationship>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/116425725">
+				<gndo:preferredNameForThePerson>Einstein, Alfred</gndo:preferredNameForThePerson>
+			</rdf:Description>
+		</gndo:familialRelationship>
+		<gndo:professionalRelationship>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/116243481">
+				<gndo:preferredNameForThePerson>Dukas, Helen</gndo:preferredNameForThePerson>
+			</rdf:Description>
+		</gndo:professionalRelationship>
+		<gndo:affiliation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/136256-2">
+				<gndo:preferredNameForTheCorporateBody>Universität Prag &lt;1882></gndo:preferredNameForTheCorporateBody>
+			</rdf:Description>
+		</gndo:affiliation>
+		<gndo:affiliation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/36190-2">
+				<gndo:preferredNameForTheCorporateBody>Universität Zürich</gndo:preferredNameForTheCorporateBody>
+			</rdf:Description>
+		</gndo:affiliation>
+		<gndo:affiliation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/35495-8">
+				<gndo:preferredNameForTheCorporateBody>Preußische Akademie der Wissenschaften</gndo:preferredNameForTheCorporateBody>
+			</rdf:Description>
+		</gndo:affiliation>
+		<gndo:affiliation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/30381-1">
+				<gndo:preferredNameForTheCorporateBody>Princeton University</gndo:preferredNameForTheCorporateBody>
+			</rdf:Description>
+		</gndo:affiliation>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4045968-8">
+				<gndo:preferredNameForTheSubjectHeading>Physiker</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4137384-4">
+				<gndo:preferredNameForTheSubjectHeading>Pazifist</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4042421-2">
+				<gndo:preferredNameForTheSubjectHeading>Nobelpreisträger</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:academicDegree>Prof.</gndo:academicDegree>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#21.5p"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-CH"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XD-US"/>
+		<gndo:publication>Äther und Relativitätstheorie. - 1920</gndo:publication>
+		<gndo:publication>Geleitw. zu: Reichinstein, David: Grenzflächenvorgänge in der unbelebten und belebten Natur. - 1930</gndo:publication>
+		<gndo:publication>Geometrie und Erfahrung : erw. Fassung eines Festvortrags gehalten an der Preuss. Akad. d. Wiss. zu Berlin am 27. Jan. 1921. - 1921</gndo:publication>
+		<gndo:publication>Vorw. zu: Freundlich, Erwin F.: Die Grundlagen der Einsteinschen Gravitationstheorie. - 1916</gndo:publication>
+		<gndo:publication>Mitverf. von: Thomson, Joseph J.: James Clerk Maxwell : a commemoration volume. 1831-1931. - 1931</gndo:publication>
+		<gndo:publication>On the Method of theoretical physics. - 1933</gndo:publication>
+		<gndo:publication>Mitverf. von: Lorentz, Hendrik A.: Das Relativitätsprinzip. - 1913</gndo:publication>
+		<gndo:publication>Über die spezielle und die allgemeine Relativitätstheorie. - 1917</gndo:publication>
+		<gndo:publication>Vier Vorlesungen über Relativitätstheorie gehalten im Mai 1921 an der Universität Princeton. - 1922</gndo:publication>
+		<gndo:biographicalOrHistoricalInformation xml:lang="de">1894-1913 überwiegend in der Schweiz, 1901 Schweizer Staatsbürger; 1914-1933 in Deutschland, 1921 Nobelpreisträger für Physik; lebte emigrierte 1933 in die USA, ab 1940 amerikanischer Staatsbürger</gndo:biographicalOrHistoricalInformation>
+		<gndo:biographicalOrHistoricalInformation xml:lang="de">Auszeichnung: Nobelpreis für Physik (1921)</gndo:biographicalOrHistoricalInformation>
+		<gndo:placeOfBirth>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4061529-7">
+				<gndo:preferredNameForThePlaceOrGeographicName>Ulm</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfBirth>
+		<gndo:placeOfDeath>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4103300-0">
+				<gndo:preferredNameForThePlaceOrGeographicName>Princeton, NJ</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfDeath>
+		<gndo:placeOfActivity>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4005762-8">
+				<gndo:preferredNameForThePlaceOrGeographicName>Bern</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfActivity>
+		<gndo:placeOfActivity>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4076310-9">
+				<gndo:preferredNameForThePlaceOrGeographicName>Prag</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfActivity>
+		<gndo:placeOfActivity>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4068038-1">
+				<gndo:preferredNameForThePlaceOrGeographicName>Zürich</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfActivity>
+		<gndo:placeOfActivity>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4005728-8">
+				<gndo:preferredNameForThePlaceOrGeographicName>Berlin</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfActivity>
+		<owl:sameAs rdf:resource="http://www.filmportal.de/person/4533E35F16964C939B82033BB6259E32"/>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#male"/>
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1879-03-14</gndo:dateOfBirth>
+		<gndo:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1955-04-18</gndo:dateOfDeath>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>33</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/101553234">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/52060042"/>
+		<gndo:gndIdentifier>101553234</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)101553234</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)7580286-7</gndo:oldAuthorityNumber>
+		<gndo:variantNameForThePerson>Einstein, Lewis D.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Lewis D.</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Einstein, Lewis David</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Lewis David</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:preferredNameForThePerson>Einstein, Lewis</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Lewis</gndo:forename>
+			<gndo:surname>Einstein</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4012401-0">
+				<gndo:preferredNameForTheSubjectHeading>Diplomat</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#16.5p"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XD-US"/>
+		<gndo:publication>Einstein, Lewis: Luigi Pulci and the Morgante Maggiore. - 1902</gndo:publication>
+		<gndo:publication>Einstein, Lewis: The Italian renaissance in England. - 1907</gndo:publication>
+		<gndo:publication>Einstein, Lewis: Divided loyalties. - 1933</gndo:publication>
+		<gndo:publication>Einstein, Lewis: A prophecy of the war (1913 - 1914). - 1918</gndo:publication>
+		<gndo:biographicalOrHistoricalInformation xml:lang="de">Amerikan. Botschafter in Costa Rica u.d. Tschechoslowakei; Mitglied d. Council on Foreign Relations</gndo:biographicalOrHistoricalInformation>
+		<gndo:placeOfBirth>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4042011-5">
+				<gndo:preferredNameForThePlaceOrGeographicName>New York, NY</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfBirth>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#male"/>
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1877-03-15</gndo:dateOfBirth>
+		<gndo:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1967</gndo:dateOfDeath>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>34</recordPosition></record></records><nextRecordPosition>35</nextRecordPosition><echoedSearchRetrieveRequest><version>1.1</version><query>PER="Einstein" and BBG="Tp*"</query><xQuery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/><startRecord>5</startRecord><maximumRecords>30</maximumRecords><recordSchema>RDFxml</recordSchema></echoedSearchRetrieveRequest><extraResponseData><accountOf xmlns="">Forschungsinstitut Brenner-Archiv</accountOf></extraResponseData></searchRetrieveResponse>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/"><version>1.1</version><numberOfRecords>131</numberOfRecords><records><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/7555576-1">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#BuildingOrMemorial"/>
+		<gndo:gndIdentifier>7555576-1</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588c)7555576-1</gndo:oldAuthorityNumber>
+		<gndo:architect rdf:resource="http://d-nb.info/gnd/10142554-5"/>
+		<gndo:broaderTermInstantial rdf:resource="http://d-nb.info/gnd/4177411-5"/>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#31.3ab"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-AT-7"/>
+		<gndo:definition xml:lang="de">Amt d. Tiroler Landesregierung, erbaut zwischen 2003 u. 2005</gndo:definition>
+		<gndo:dateOfEstablishment>2003</gndo:dateOfEstablishment>
+		<gndo:dateOfTermination>2005</gndo:dateOfTermination>
+		<gndo:preferredNameForThePlaceOrGeographicName>Landhaus 2 &lt;Innsbruck></gndo:preferredNameForThePlaceOrGeographicName>
+		<gndo:place rdf:resource="http://d-nb.info/gnd/4027096-8"/>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>1</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/4471411-7">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#TerritorialCorporateBodyOrAdministrativeUnit"/>
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#AdministrativeUnit"/>
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#ReligiousTerritory"/>
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/Di%C3%B6zese_Feldkirch"/>
+		<gndo:gndIdentifier>4471411-7</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588)67438-2</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588b)67438-2</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)4471411-7</gndo:oldAuthorityNumber>
+		<gndo:broaderTermInstantial rdf:resource="http://d-nb.info/gnd/4070487-7"/>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#3.6a"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-AT-8"/>
+		<gndo:homepage rdf:resource="http://www.kath-kirche-vorarlberg.at"/>
+		<gndo:definition xml:lang="de">d. Diözese Feldkirch umfasst d. Bundesland Vorarlberg</gndo:definition>
+		<gndo:dateOfEstablishment>1968,8.Dez.</gndo:dateOfEstablishment>
+		<gndo:variantNameForThePlaceOrGeographicName>Katholische Kirche Vorarlberg</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Diözese &lt;Feldkirch></gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Feldkirch &lt;Diözese></gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:preferredNameForThePlaceOrGeographicName>Diözese Feldkirch</gndo:preferredNameForThePlaceOrGeographicName>
+		<gndo:precedingPlaceOrGeographicName rdf:resource="http://d-nb.info/gnd/128556-7"/>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>2</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/4347392-1">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#TerritorialCorporateBodyOrAdministrativeUnit"/>
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#AdministrativeUnit"/>
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#ReligiousTerritory"/>
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/Di%C3%B6zese_Innsbruck"/>
+		<gndo:gndIdentifier>4347392-1</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588)67437-0</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588b)407178-5</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588b)67437-0</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)4347392-1</gndo:oldAuthorityNumber>
+		<gndo:broaderTermInstantial rdf:resource="http://d-nb.info/gnd/4070487-7"/>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#3.6a"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-AT-7"/>
+		<gndo:homepage rdf:resource="http://www.dioezese-innsbruck.at"/>
+		<gndo:dateOfEstablishment>1964,6.Aug.</gndo:dateOfEstablishment>
+		<gndo:variantNameForThePlaceOrGeographicName>Diözese &lt;Innsbruck></gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Innsbruck &lt;Diözese></gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:preferredNameForThePlaceOrGeographicName>Diözese Innsbruck</gndo:preferredNameForThePlaceOrGeographicName>
+		<gndo:precedingPlaceOrGeographicName rdf:resource="http://d-nb.info/gnd/128556-7"/>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>3</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/4466230-0">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#TerritorialCorporateBodyOrAdministrativeUnit"/>
+		<gndo:gndIdentifier>4466230-0</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588)10042044-8</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588b)10042044-8</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)4466230-0</gndo:oldAuthorityNumber>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-AT-7"/>
+		<gndo:definition xml:lang="de">Stadtteil im SO v. Ibk.</gndo:definition>
+		<gndo:dateOfEstablishment>1964</gndo:dateOfEstablishment>
+		<gndo:variantNameForThePlaceOrGeographicName>Olympisches Dorf</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>O-Dorf</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:preferredNameForThePlaceOrGeographicName>Innsbruck- Olympisches Dorf</gndo:preferredNameForThePlaceOrGeographicName>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>4</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/10008783-8">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#TerritorialCorporateBodyOrAdministrativeUnit"/>
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#AdministrativeUnit"/>
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/Bezirk_Innsbruck-Land"/>
+		<gndo:gndIdentifier>10008783-8</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588b)10008783-8</gndo:oldAuthorityNumber>
+		<gndo:broaderTermInstantial rdf:resource="http://d-nb.info/gnd/4145203-3"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-AT"/>
+		<gndo:definition xml:lang="de">die Bezirkshauptmannschaft trägt zeitweise die Bezeichnung Innsbruck</gndo:definition>
+		<gndo:dateOfEstablishment>1953</gndo:dateOfEstablishment>
+		<gndo:variantNameForThePlaceOrGeographicName>Politischer Bezirk Innsbruck-Land / Bezirkshauptmannschaft</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Politischer Bezirk Bezirkshauptmannschaft Innsbruck-Land</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Politischer Bezirk Bezirkshauptmannschaft Innsbruck</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Politischer Bezirk Innsbruck (Landbezirk) &lt;Innsbruck-Land></gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Politischer Bezirk Landbezirk Innsbruck</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Innsbruck-Land &lt;Politischer Bezirk></gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:preferredNameForThePlaceOrGeographicName>Politischer Bezirk Innsbruck-Land</gndo:preferredNameForThePlaceOrGeographicName>
+		<gndo:precedingPlaceOrGeographicName rdf:resource="http://d-nb.info/gnd/10008782-6"/>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>5</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/10008782-6">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#TerritorialCorporateBodyOrAdministrativeUnit"/>
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#AdministrativeUnit"/>
+		<gndo:gndIdentifier>10008782-6</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588b)10008782-6</gndo:oldAuthorityNumber>
+		<gndo:broaderTermInstantial rdf:resource="http://d-nb.info/gnd/4145203-3"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-AT"/>
+		<gndo:dateOfEstablishment>1949</gndo:dateOfEstablishment>
+		<gndo:dateOfTermination>1952</gndo:dateOfTermination>
+		<gndo:variantNameForThePlaceOrGeographicName>Verwaltungsbezirk Innsbruck-Land / Bezirkshauptmannschaft</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Verwaltungsbezirk Bezirkshauptmannschaft Innsbruck-Land</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Verwaltungsbezirk Innsbruck (Landbezirk) &lt;Innsbruck-Land></gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Verwaltungsbezirk Landbezirk Innsbruck</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Innsbruck-Land &lt;Verwaltungsbezirk></gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:preferredNameForThePlaceOrGeographicName>Verwaltungsbezirk Innsbruck-Land</gndo:preferredNameForThePlaceOrGeographicName>
+		<gndo:precedingPlaceOrGeographicName rdf:resource="http://d-nb.info/gnd/10093400-6"/>
+		<gndo:succeedingPlaceOrGeographicName rdf:resource="http://d-nb.info/gnd/10008783-8"/>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>6</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/10008781-4">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#TerritorialCorporateBodyOrAdministrativeUnit"/>
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#AdministrativeUnit"/>
+		<gndo:gndIdentifier>10008781-4</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588b)10008781-4</gndo:oldAuthorityNumber>
+		<gndo:broaderTermInstantial rdf:resource="http://d-nb.info/gnd/4145203-3"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-AT"/>
+		<gndo:dateOfEstablishment>1935</gndo:dateOfEstablishment>
+		<gndo:dateOfTermination>1938</gndo:dateOfTermination>
+		<gndo:variantNameForThePlaceOrGeographicName>Verwaltungsbezirk Innsbruck (Landbezirk) / Bezirkshauptmannschaft</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Verwaltungsbezirk Bezirkshauptmannschaft &lt;Innsbruck (Landbezirk)></gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Innsbruck (Landbezirk) &lt;Verwaltungsbezirk></gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:preferredNameForThePlaceOrGeographicName>Verwaltungsbezirk Innsbruck (Landbezirk)</gndo:preferredNameForThePlaceOrGeographicName>
+		<gndo:precedingPlaceOrGeographicName rdf:resource="http://d-nb.info/gnd/10008779-6"/>
+		<gndo:succeedingPlaceOrGeographicName rdf:resource="http://d-nb.info/gnd/10093400-6"/>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>7</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/4671590-3">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#BuildingOrMemorial"/>
+		<gndo:gndIdentifier>4671590-3</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588c)4671590-3</gndo:oldAuthorityNumber>
+		<gndo:architect rdf:resource="http://d-nb.info/gnd/123785278"/>
+		<gndo:broaderTermInstantial rdf:resource="http://d-nb.info/gnd/4073436-5"/>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#31.3ab"/>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#3.5a"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-AT-7"/>
+		<gndo:definition xml:lang="de">Pfarrkirche in (Innsbruck-)Hötting, 1932 von S. Thurner erbaut</gndo:definition>
+		<gndo:dateOfProduction>1932</gndo:dateOfProduction>
+		<gndo:variantNameForThePlaceOrGeographicName>Heilige Theresia &lt;Innsbruck></gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Sankt Theresia &lt;Hötting></gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Sankt Theresia &lt;Innsbruck-Hötting></gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Theresienkirche Innsbruck</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Hungerburg-Kirche Heilige Theresia &lt;Innsbruck></gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:preferredNameForThePlaceOrGeographicName>Sankt Theresia &lt;Innsbruck></gndo:preferredNameForThePlaceOrGeographicName>
+		<gndo:place rdf:resource="http://d-nb.info/gnd/4027096-8"/>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>8</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/10008779-6">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#TerritorialCorporateBodyOrAdministrativeUnit"/>
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#AdministrativeUnit"/>
+		<gndo:gndIdentifier>10008779-6</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588b)10008779-6</gndo:oldAuthorityNumber>
+		<gndo:broaderTermInstantial rdf:resource="http://d-nb.info/gnd/4145203-3"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-AT"/>
+		<gndo:dateOfEstablishment>1922</gndo:dateOfEstablishment>
+		<gndo:dateOfTermination>1934</gndo:dateOfTermination>
+		<gndo:variantNameForThePlaceOrGeographicName>Politischer Bezirk Innsbruck (Landbezirk) / Bezirkshauptmannschaft</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Politischer Bezirk Bezirkshauptmannschaft &lt;Innsbruck (Landbezirk)></gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Innsbruck (Landbezirk) &lt;Politischer Bezirk></gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:preferredNameForThePlaceOrGeographicName>Politischer Bezirk Innsbruck (Landbezirk)</gndo:preferredNameForThePlaceOrGeographicName>
+		<gndo:precedingPlaceOrGeographicName rdf:resource="http://d-nb.info/gnd/10008777-2"/>
+		<gndo:succeedingPlaceOrGeographicName rdf:resource="http://d-nb.info/gnd/10008781-4"/>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>9</recordPosition></record><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/7694433-5">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#BuildingOrMemorial"/>
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#CorporateBody"/>
+		<gndo:gndIdentifier>7694433-5</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588c)7694433-5</gndo:oldAuthorityNumber>
+		<gndo:broaderTermInstantial rdf:resource="http://d-nb.info/gnd/4151331-9"/>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#10.13a"/>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#31.3ab"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-AT-7"/>
+		<gndo:definition xml:lang="de">erstes Kaufhaus in Tirol, 1908 als Warenhaus Bauer &amp; Schwarz eröffnet, 1938 "arisiert" und als Kaufhaus Kraus weitergeführt, ab 1966 unter dem Namen Kaufhaus Tyrol; nach Abriss und Neubau 2010 unter dem selben Namen als Einkaufszentrum neu eröffnet. U.a. befinden sich Peek &amp; Cloppenburg, Saturn, Buchhandlung Tyrolia, Intersport, H&amp;M in dem Neubau</gndo:definition>
+		<gndo:dateOfProduction>1908</gndo:dateOfProduction>
+		<gndo:preferredNameForThePlaceOrGeographicName>Kaufhaus Tyrol &lt;Innsbruck></gndo:preferredNameForThePlaceOrGeographicName>
+		<gndo:place rdf:resource="http://d-nb.info/gnd/4027096-8"/>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>10</recordPosition></record></records><nextRecordPosition>11</nextRecordPosition><echoedSearchRetrieveRequest><version>1.1</version><query>GEO="Innsbruck" and BBG="Tg*"</query><xQuery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/><recordSchema>RDFxml</recordSchema></echoedSearchRetrieveRequest><extraResponseData><accountOf xmlns="">Forschungsinstitut Brenner-Archiv</accountOf></extraResponseData></searchRetrieveResponse>

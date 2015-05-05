@@ -1,0 +1,78 @@
+<div class="pane" ng-controller="PreQueryController" xmlns="http://www.w3.org/1999/html">
+
+    <h1>Prequery</h1>
+
+    <p>Here you can do the batch query of the uploaded vocabularies.</p>
+
+    <div id="prequeryLaunch">
+        <h2>QueryQueue</h2>
+        <query-queue-short></query-queue-short>
+        <p>Please note that the number or pending queries is what is interesting. If it is zero, then no pending queries is available,
+            that means that no automatic queries is queued.</p>
+
+        <h2>Worker status</h2>
+        <p>The worker is finished: {{workerStatus.finished}}</p>
+
+        <div ng-show="workerStatus.finished && !workerStatus.previewAvailable">
+            <h2>Start Query</h2>
+            <p ng-show="queryQueue.pendingQueries.length!=0">Please click <button ng-click="startQuery()">start</button> to query the pending queries.</p>
+
+            <p ng-show="queryQueue.results.length!=0">Please click <button ng-click="startRequery()">start requery</button> to query all queries.</p>
+        </div>
+        <div ng-show="workerStatus.finished && workerStatus.previewAvailable">
+            <h2>Accept Query</h2>
+            <p>Please click <button ng-click="accept()">Accept</button> to accept the result.</p>
+            <p>Please click <button ng-click="preview()">Preview</button> to preview the results.</p>
+            <p>Please click <button ng-click="reject()">Reject</button> to reject the results.</p>
+            <div ng-show="previewData.results">
+                <h4>Pending Queries</h4>
+                <table>
+                    <thead>
+                    <tr>
+                        <td>Name</td>
+                        <td>Querystring</td>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr ng-repeat="pending in previewData.pendingQueries">
+                        <td>{{pending.name}}</td>
+                        <td>{{pending.queryString}}</td>
+                    </tr>
+                    </tbody>
+                </table>
+                <h4>Results</h4>
+                <table>
+                    <thead>
+                    <tr>
+                        <td>Name</td>
+                        <td>Querystring</td>
+                        <td>No. of results</td>
+                    </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="result in previewData.results">
+                            <td>{{result.query.name}}</td>
+                            <td>{{result.query.queryString}}</td>
+                            <td>{{result.resultCounts}}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+
+    <div id="prequeryEdit">
+
+        <h3>Edit the pending queue</h3>
+        <edit-pending-queue></edit-pending-queue>
+    </div>
+
+    <div id="overlayFrame" ng-hide="workerStatus.finished">
+
+        <h1>Please wait...</h1>
+    </div>
+
+
+
+</div>

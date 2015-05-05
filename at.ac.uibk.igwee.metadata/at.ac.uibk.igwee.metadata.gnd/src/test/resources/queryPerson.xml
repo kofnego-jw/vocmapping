@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/"><version>1.1</version><numberOfRecords>1</numberOfRecords><records><record><recordSchema>RDFxml</recordSchema><recordPacking>xml</recordPacking><recordData><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/118553739">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/%C3%96d%C3%B6n_von_Horv%C3%A1th"/>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/%C3%96d%C3%B6n_von_Horv%C3%A1th"/>
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/95147466"/>
+		<gndo:gndIdentifier>118553739</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)118553739</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)12643378X</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)126433658</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)127782869</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)127782850</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)126433674</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)4025906-7</gndo:oldAuthorityNumber>
+		<gndo:variantNameForThePerson>Horváth, Ödön J. M. von</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Ödön J. M.</gndo:forename>
+			<gndo:prefix>von</gndo:prefix>
+			<gndo:surname>Horváth</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Horváth, Ödön v.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Ödön</gndo:forename>
+			<gndo:prefix>v.</gndo:prefix>
+			<gndo:surname>Horváth</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Horváth, Oedön von</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Oedön</gndo:forename>
+			<gndo:prefix>von</gndo:prefix>
+			<gndo:surname>Horváth</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Horváth, Edmund von</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Edmund</gndo:forename>
+			<gndo:prefix>von</gndo:prefix>
+			<gndo:surname>Horváth</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Horvath, E. v.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>E.</gndo:forename>
+			<gndo:prefix>v.</gndo:prefix>
+			<gndo:surname>Horvath</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Horvath, Odon de</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Odon</gndo:forename>
+			<gndo:prefix>de</gndo:prefix>
+			<gndo:surname>Horvath</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Horvath, Odon von</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Odon</gndo:forename>
+			<gndo:prefix>von</gndo:prefix>
+			<gndo:surname>Horvath</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Horvath, Ödön</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Ödön</gndo:forename>
+			<gndo:surname>Horvath</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Horvat, Eden fon</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Eden</gndo:forename>
+			<gndo:prefix>fon</gndo:prefix>
+			<gndo:surname>Horvat</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Chorbat, Enten</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Enten</gndo:forename>
+			<gndo:surname>Chorbat</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Chorvat, Ėden fon</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Ėden</gndo:forename>
+			<gndo:prefix>fon</gndo:prefix>
+			<gndo:surname>Chorvat</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Chorvat, Jod'on fon</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Jod'on</gndo:forename>
+			<gndo:prefix>fon</gndo:prefix>
+			<gndo:surname>Chorvat</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Horvath, Ödön von</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Ödön</gndo:forename>
+			<gndo:prefix>von</gndo:prefix>
+			<gndo:surname>Horvath</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:preferredNameForThePerson>Horváth, Ödön von</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Ödön</gndo:forename>
+			<gndo:prefix>von</gndo:prefix>
+			<gndo:surname>Horváth</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4053309-8">
+				<gndo:preferredNameForTheSubjectHeading>Schriftsteller</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4294338-3">
+				<gndo:preferredNameForTheSubjectHeading>Drehbuchautor</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:fieldOfStudy>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4020383-9">
+				<gndo:preferredNameForTheSubjectHeading>Germanistik</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:fieldOfStudy>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#12.2p"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-HR"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-HU"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE"/>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-AT"/>
+		<gndo:publication>Das Buch der Tänze. - 1922</gndo:publication>
+		<gndo:publication>Don Juan kommt aus dem Krieg. - 1975</gndo:publication>
+		<gndo:publication>Ein Dorf ohne Männer. - [1973?]</gndo:publication>
+		<gndo:publication>Dramen. - 1969</gndo:publication>
+		<gndo:publication>Der ewige Spiesser. - 1973</gndo:publication>
+		<gndo:publication>Figaro lässt sich scheiden. - 1987</gndo:publication>
+		<gndo:publication>Ein Fräulein wird verkauft und andere Stücke aus dem Nachlaß. - 2005</gndo:publication>
+		<gndo:publication>Geschichten aus dem Wiener Wald. - 1970</gndo:publication>
+		<gndo:publication>Die Geschichten der Agnes Pollinger. - [1975]</gndo:publication>
+		<gndo:publication>Glaube, Liebe, Hoffnung. - [1973]</gndo:publication>
+		<gndo:publication>Himmelwärts und andere Prosa aus dem Nachlaß. - 2001</gndo:publication>
+		<gndo:publication>Italienische Nacht. - 1984</gndo:publication>
+		<gndo:publication>Jugend ohne Gott. - 2001</gndo:publication>
+		<gndo:publication>Der jüngste Tag. - 1981</gndo:publication>
+		<gndo:publication>Kasimir und Karoline. - 1986</gndo:publication>
+		<gndo:publication>Ein Kind unserer Zeit. - 1985</gndo:publication>
+		<gndo:publication>Mord in der Mohrengasse. - 1981</gndo:publication>
+		<gndo:publication>Rund um den Kongress : Posse in 5 Bildern. - [1969]</gndo:publication>
+		<gndo:publication>Sechsunddreißig Stunden. - 1979</gndo:publication>
+		<gndo:publication>Sladek. - 1983</gndo:publication>
+		<gndo:publication>So starb der Friede. - 1930</gndo:publication>
+		<gndo:publication>Soldat du reich. - [1940]</gndo:publication>
+		<gndo:publication>Sportmärchen, andere Prosa und Verse. - 1988</gndo:publication>
+		<gndo:publication>Die stille Revolution. - 1975</gndo:publication>
+		<gndo:publication>Eine Unbekannte aus der Seine und andere Stücke. - 1986</gndo:publication>
+		<gndo:publication>Von Spiessern, Kleinbürgern und Angestellten. - [1971]</gndo:publication>
+		<gndo:publication>Stunde der Liebe. - 1981</gndo:publication>
+		<gndo:publication>Zeitalter der Fische. - [1968]</gndo:publication>
+		<gndo:publication>Zur schönen Aussicht und andere Stücke. - 1985</gndo:publication>
+		<gndo:biographicalOrHistoricalInformation xml:lang="de">Österreichisch-ungar. Dramatiker, geboren im heutigen Kroatien, aufgewachsen in verschiedenen europäischen Großstädten, u.a. Ungarn, Studium in Deutschland; 1933 Emigration nach Österreich, 1934 nach Deutschland und 1938 nach Frankreich</gndo:biographicalOrHistoricalInformation>
+		<gndo:placeOfBirth>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4050045-7">
+				<gndo:preferredNameForThePlaceOrGeographicName>Rijeka</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfBirth>
+		<gndo:placeOfDeath>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4044660-8">
+				<gndo:preferredNameForThePlaceOrGeographicName>Paris</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfDeath>
+		<gndo:placeOfActivity>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4066009-6">
+				<gndo:preferredNameForThePlaceOrGeographicName>Wien</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfActivity>
+		<gndo:placeOfActivity>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4127793-4">
+				<gndo:preferredNameForThePlaceOrGeographicName>München</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfActivity>
+		<gndo:placeOfActivity>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4005728-8">
+				<gndo:preferredNameForThePlaceOrGeographicName>Berlin</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfActivity>
+		<owl:sameAs rdf:resource="http://www.filmportal.de/person/0CBE5C58361C4FFA8E3F24814C349F6E"/>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#male"/>
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1901-12-09</gndo:dateOfBirth>
+		<gndo:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1938-06-01</gndo:dateOfDeath>
+	</rdf:Description>
+</rdf:RDF></recordData><recordPosition>1</recordPosition></record></records><nextRecordPosition>2</nextRecordPosition><echoedSearchRetrieveRequest><version>1.1</version><query>PER="Horvath, Ödön" and BBG="Tp*"</query><xQuery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/><recordSchema>RDFxml</recordSchema></echoedSearchRetrieveRequest><extraResponseData><accountOf xmlns="">Forschungsinstitut Brenner-Archiv</accountOf></extraResponseData></searchRetrieveResponse>

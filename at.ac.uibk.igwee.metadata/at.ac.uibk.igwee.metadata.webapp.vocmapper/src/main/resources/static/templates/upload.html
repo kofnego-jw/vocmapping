@@ -1,0 +1,54 @@
+<div class="pane" ng-controller="FileUploadController as fuC">
+
+    <div class="leftDiv">
+
+        <h1>Query Queue on Server</h1>
+
+        <query-queue-short></query-queue-short>
+
+
+    </div>
+
+
+
+    <div class="rightDiv">
+        <h1>Upload a File</h1>
+
+    <h2>Upload a progress</h2>
+
+    <form name="progressUpload">
+        <div class="form-group">
+            <label for="xmlFile">Select Progress File</label>
+            <input type="file" id="xmlFile"
+                    ng-file-select
+                    ng-model="progressFile">
+        </div>
+        <button ng-click="uploadProgress()" type="submit" class="btn btn-default">Submit</button>
+    </form>
+
+    <h2>Upload an Excel CSV</h2>
+
+    <form name="excelcsv">
+        <div class="form-group">
+            <label for="excelCsvFile">Select an Excel CSV File</label>
+            <input type="file" id="excelCsvFile"
+                   ng-file-select
+                   ng-model="excelCsvFile">
+            <select ng-model="excelCsvEncoding">
+                <option value="utf-8" selected>utf-8</option>
+                <option value="iso8859-1">iso 8859-1</option>
+                <option value="macroman">MacRoman</option>
+            </select>
+            <p>Please use the following setting when saving the CSV: Using ';' to delimit cells and '"' for texts.</p>
+        </div>
+        <button ng-click="uploadExcelCsv()" type="submit" class="btn btn-default">Submit</button>
+    </form>
+
+        <h2>Clear Progress</h2>
+        <p>Careful, if you have now downloaded the progress, the progress will be gone.</p>
+        <p>Click <button ng-click="clearProgress()" type="submit">here</button> to clear the progress.</p>
+
+    </div>
+
+
+</div>

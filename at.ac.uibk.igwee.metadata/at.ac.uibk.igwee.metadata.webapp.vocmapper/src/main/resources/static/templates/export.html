@@ -1,0 +1,49 @@
+<div class="pane" xmlns="http://www.w3.org/1999/html">
+
+    <h1>Export</h1>
+
+    <p>Here you can export the fixed mappings to CSV.</p>
+
+    <div id="exportLeftPane" class="leftDiv">
+        <h2>The queries now on server</h2>
+        <query-queue-short></query-queue-short>
+    </div>
+
+    <div id="exportRightPane" ng-controller="ExportController" class="rightDiv">
+
+        <h3>Export to CSV</h3>
+        <div>
+            <form id="exportForm" ng-submit="generateExportUrl()">
+                <div class="form-group">
+                    <label for="delimiter">Please select delimiter: </label>
+                    <select ng-model="exportForm.delimiter" id="delimiter" class="form-control">
+                        <option value="," select="select">Comma (,)</option>
+                        <option value=";">Semicolon (;)</option>
+                        <option value="%09">Tab (\t)</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="encoding">Please select delimiter: </label>
+                    <select ng-model="exportForm.encoding" id="encoding" class="form-control">
+                        <option value="utf-8" select="select">UTF-8</option>
+                        <option value="iso_8859-1">ISO 8859-1</option>
+                        <option value="macroman">MacRoman</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <button ng-click="generateExportUrl()" type="submit">Get the export</button>
+                </div>
+            </form>
+        </div>
+        <div ng-show="hasExportUrl" style="margin-top: 20px;">
+            <a download="result.csv" ng-href="{{exportUrl}}" ng-click="hideUrl()">Click here to download</a>
+        </div>
+
+
+    </div>
+
+
+
+
+
+</div>

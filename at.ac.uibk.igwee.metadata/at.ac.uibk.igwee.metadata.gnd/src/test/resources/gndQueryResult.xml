@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gndQueryResult>
+  <maxRows>20</maxRows>
+  <startRow>1</startRow>
+  <nextRow>21</nextRow>
+  <totalhits>3</totalhits>
+  <results>
+    <gndVocabulary>
+      <id>gnd:123</id>
+      <uri>http://d-nb.info/gnd/123</uri>
+      <vocabularyType>PERSONAL_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>123</gndId>
+      <name>EinZweiDrei</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:456</id>
+      <uri>http://d-nb.info/gnd/456</uri>
+      <vocabularyType>PLACE_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>456</gndId>
+      <name>Innsbruck</name>
+    </gndVocabulary>
+    <gndVocabulary>
+      <id>gnd:789</id>
+      <uri>http://d-nb.info/gnd/789</uri>
+      <vocabularyType>INSTITUTION_NAME</vocabularyType>
+      <sameAsSet/>
+      <gndId>789</gndId>
+      <name>ÖAMTC</name>
+    </gndVocabulary>
+  </results>
+</gndQueryResult>
