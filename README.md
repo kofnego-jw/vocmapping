@@ -1,6 +1,8 @@
 # vocmapping
 Mapping Vocabularies
 
+This application is developed on behalf of the Commission for Modern Austrian History (http://www.oesterreichische-geschichte.at). If you should have any questions concerning this application, please contact Joseph Wang on j.wang@uibk.ac.at. Thank you.
+
 This application should help people map lots of vocabularies at once. After build of the at.ac.uibk.igwee.metadata subfolder, you should find a file in
 
     at.ac.uibk.igwee.metadata/at.ac.uibk.igwee.metadata.webapp.vocmapper/target/at.ac.uibk.igwee.webapp.metadata.mdmapper-1.0-SNAPSHOT.jar
